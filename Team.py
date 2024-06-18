@@ -12,3 +12,6 @@ class Team:
     def getTeamName(self):
         return self.clubName
     
+    def __str__(self):
+        return self.clubName
+    

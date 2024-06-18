@@ -6,4 +6,4 @@ class DataBase:
             self.dataBaseMap[team] = playersArray
     def getData(self):
         return self.dataBaseMap
-            
+             

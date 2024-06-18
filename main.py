@@ -4,8 +4,9 @@ from Database import DataBase
 sys.stdout.reconfigure(encoding='utf-8')
 
 scraper = DataScraper()
-scraper.createPlayer()
-players= scraper.getPlayers()
-for player in players:
-    print(player)
-    # test committ
+dataMap = scraper.run()
+for key, val in dataMap.items():
+    print(key)
+    playersArray = val
+    for player in playersArray:
+        print(player)

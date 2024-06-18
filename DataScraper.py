@@ -2,11 +2,13 @@ from bs4 import BeautifulSoup
 import requests
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from Player import Player
-import Team
+from Team import Team
+from Database import DataBase
 
 class DataScraper:
     def __init__(self):
-        self.playersArray = []
+        self.clubMap = {}
+        
     def getTeamLinks(self):
         # This function takes in the transfermarkt premier league webpage and access it
         url = 'https://www.transfermarkt.co.uk/premier-league/startseite/wettbewerb/gb1'
@@ -62,13 +64,9 @@ class DataScraper:
             # Iterate over completed futures
             for future in as_completed(future_to_team):
                 url = future_to_team[future]
-                try:
-                    # Get the result of the future
-                    team_names = future.result()
-                    teamSet.update(team_names)
-                except Exception as exc:
-                    print(f'Exception occurred for team {url}: {exc}')
-
+                # Get the result of the future
+                team_names = future.result()
+                teamSet.update(team_names) 
         return teamSet
 
     # New method to process each team and extract team names
@@ -104,6 +102,7 @@ class DataScraper:
        
     def processTeam(self, teamLink, headers):
         playersLinkArray = self.getTeamPlayer(teamLink)
+        
         for player in playersLinkArray:
             response = requests.get(player, headers=headers)
             soup = BeautifulSoup(response.content, 'html.parser')
@@ -115,12 +114,9 @@ class DataScraper:
             team = self.fetchPlayerTeam(soup)
             marketValue = self.fetchPlayerMarketValue(soup)
             position = self.fetchPlayerPosition(soup)
-            
             player = Player(name, age, height, team, marketValue, position, nationality)
-            self.playersArray.append(player)  
-
-    def getPlayers(self):
-        return self.playersArray
+            club = self.clubMap[team]
+            club.addPlayer(player)
 
     def fetchPlayerName(self, soup):
         # Narrowing down the parsing
@@ -165,6 +161,7 @@ class DataScraper:
         teamTag = soup.find('span', class_='data-header__club', itemprop='affiliation')
         if teamTag:
             team = teamTag.find('a').get_text(strip=True)
+            team = team.replace(" U21" ,"")
             return team
 
     def fetchPlayerMarketValue(self, soup):
@@ -182,3 +179,25 @@ class DataScraper:
             position = positionTag.get_text(strip=True)
             return position
 
+    def createDataBase(self):
+        clubSet = set()
+        for key, val in self.clubMap.items():
+            clubSet.add(val)
+        dataBase  = DataBase(clubSet)
+        dataMap  = dataBase.getData()
+        return dataMap
+        
+        
+    
+    def createClubs(self):
+        teamsArray = self.getTeamNames()
+        for team in teamsArray:
+            club = Team(team)
+            self.clubMap[team] = club
+        return self.clubMap
+    
+    def run(self):
+        self.createClubs()
+        self.createPlayer()
+        dataMap = self.createDataBase()
+        return dataMap
