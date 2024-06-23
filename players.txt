@@ -1,0 +1,624 @@
+Arsenal
+Name: David Raya, Age: 28, Height: 1,83 m, Team: Arsenal, Market Value: €35.00m, Position: Goalkeeper, Nationality: Spain
+Name: Aaron Ramsdale, Age: 26, Height: 1,90 m, Team: Arsenal, Market Value: €25.00m, Position: Goalkeeper, Nationality: England
+Name: Karl Hein, Age: 22, Height: 1,93 m, Team: Arsenal, Market Value: €2.00m, Position: Goalkeeper, Nationality: Estonia
+Name: Arthur Okonkwo, Age: 22, Height: 1,98 m, Team: Arsenal, Market Value: €1.80m, Position: Goalkeeper, Nationality: England
+Name: William Saliba, Age: 23, Height: 1,92 m, Team: Arsenal, Market Value: €80.00m, Position: Centre-Back, Nationality: France
+Name: Gabriel Magalhães, Age: 26, Height: 1,90 m, Team: Arsenal, Market Value: €70.00m, Position: Centre-Back, Nationality: Brazil
+Name: Jurrien Timber, Age: 23, Height: 1,79 m, Team: Arsenal, Market Value: €38.00m, Position: Centre-Back, Nationality: Netherlands
+Name: Oleksandr Zinchenko, Age: 27, Height: 1,75 m, Team: Arsenal, Market Value: €38.00m, Position: Left-Back, Nationality: Ukraine
+Name: Jakub Kiwior, Age: 24, Height: 1,89 m, Team: Arsenal, Market Value: €30.00m, Position: Left-Back, Nationality: Poland
+Name: Ben White, Age: 26, Height: 1,86 m, Team: Arsenal, Market Value: €55.00m, Position: Right-Back, Nationality: England
+Name: Takehiro Tomiyasu, Age: 25, Height: 1,88 m, Team: Arsenal, Market Value: €35.00m, Position: Right-Back, Nationality: Japan
+Name: Cédric Soares, Age: 32, Height: 1,71 m, Team: Arsenal, Market Value: €2.00m, Position: Right-Back, Nationality: Portugal
+Name: Declan Rice, Age: 25, Height: 1,88 m, Team: Arsenal, Market Value: €120.00m, Position: Defensive Midfield, Nationality: England
+Name: Thomas Partey, Age: 31, Height: 1,85 m, Team: Arsenal, Market Value: €18.00m, Position: Defensive Midfield, Nationality: Ghana
+Name: Jorginho, Age: 32, Height: 1,78 m, Team: Arsenal, Market Value: €12.00m, Position: Defensive Midfield, Nationality: Italy
+Name: Mohamed Elneny, Age: 31, Height: 1,79 m, Team: Arsenal, Market Value: €3.50m, Position: Defensive Midfield, Nationality: Egypt
+Name: Albert Sambi Lokonga, Age: 24, Height: 1,83 m, Team: Arsenal, Market Value: €15.00m, Position: Central Midfield, Nationality: Belgium
+Name: Martin Ødegaard, Age: 25, Height: 1,78 m, Team: Arsenal, Market Value: €110.00m, Position: Attacking Midfield, Nationality: Norway
+Name: Kai Havertz, Age: 25, Height: 1,93 m, Team: Arsenal, Market Value: €70.00m, Position: Attacking Midfield, Nationality: Germany
+Name: Emile Smith Rowe, Age: 23, Height: 1,82 m, Team: Arsenal, Market Value: €22.00m, Position: Attacking Midfield, Nationality: England
+Name: Fábio Vieira, Age: 24, Height: 1,70 m, Team: Arsenal, Market Value: €22.00m, Position: Attacking Midfield, Nationality: Portugal
+Name: Gabriel Martinelli, Age: 23, Height: 1,78 m, Team: Arsenal, Market Value: €70.00m, Position: Left Winger, Nationality: Brazil
+Name: Leandro Trossard, Age: 29, Height: 1,72 m, Team: Arsenal, Market Value: €35.00m, Position: Left Winger, Nationality: Belgium
+Name: Bukayo Saka, Age: 22, Height: 1,78 m, Team: Arsenal, Market Value: €140.00m, Position: Right Winger, Nationality: England
+Name: Reiss Nelson, Age: 24, Height: 1,75 m, Team: Arsenal, Market Value: €15.00m, Position: Right Winger, Nationality: England
+Name: Gabriel Jesus, Age: 27, Height: 1,75 m, Team: Arsenal, Market Value: €65.00m, Position: Centre-Forward, Nationality: Brazil
+Name: Eddie Nketiah, Age: 25, Height: 1,75 m, Team: Arsenal, Market Value: €30.00m, Position: Centre-Forward, Nationality: England
+Tottenham
+Name: Guglielmo Vicario, Age: 27, Height: 1,94 m, Team: Tottenham, Market Value: €35.00m, Position: Goalkeeper, Nationality: Italy
+Name: Fraser Forster, Age: 36, Height: 2,01 m, Team: Tottenham, Market Value: €1.20m, Position: Goalkeeper, Nationality: England
+Name: Brandon Austin, Age: 25, Height: 1,88 m, Team: Tottenham, Market Value: €600k, Position: Goalkeeper, Nationality: England
+Name: Alfie Whiteman, Age: 25, Height: 1,88 m, Team: Tottenham, Market Value: €500k, Position: Goalkeeper, Nationality: England
+Name: Cristian Romero, Age: 26, Height: 1,85 m, Team: Tottenham, Market Value: €60.00m, Position: Centre-Back, Nationality: Argentina
+Name: Micky van de Ven, Age: 23, Height: 1,93 m, Team: Tottenham, Market Value: €55.00m, Position: Centre-Back, Nationality: Netherlands
+Name: Radu Drăgușin, Age: 22, Height: 1,91 m, Team: Tottenham, Market Value: €25.00m, Position: Centre-Back, Nationality: Romania
+Name: Joe Rodon, Age: 26, Height: 1,93 m, Team: Tottenham, Market Value: €8.00m, Position: Centre-Back, Nationality: Wales
+Name: Ashley Phillips, Age: 18, Height: 1,96 m, Team: Tottenham, Market Value: €2.20m, Position: Centre-Back, Nationality: England
+Name: Japhet Tanganga, Age: 25, Height: 1,84 m, Team: Tottenham, Market Value: €1.80m, Position: Centre-Back, Nationality: England
+Name: Destiny Udogie, Age: 21, Height: 1,88 m, Team: Tottenham, Market Value: €45.00m, Position: Left-Back, Nationality: Italy
+Name: Sergio Reguilón, Age: 27, Height: 1,78 m, Team: Tottenham, Market Value: €12.00m, Position: Left-Back, Nationality: Spain
+Name: Ben Davies, Age: 31, Height: 1,81 m, Team: Tottenham, Market Value: €10.00m, Position: Left-Back, Nationality: Wales
+Name: Pedro Porro, Age: 24, Height: 1,73 m, Team: Tottenham, Market Value: €45.00m, Position: Right-Back, Nationality: Spain
+Name: Emerson Royal, Age: 25, Height: 1,83 m, Team: Tottenham, Market Value: €18.00m, Position: Right-Back, Nationality: Brazil
+Name: Yves Bissouma, Age: 27, Height: 1,82 m, Team: Tottenham, Market Value: €35.00m, Position: Defensive Midfield, Nationality: Mali
+Name: Pierre-Emile Højbjerg, Age: 28, Height: 1,85 m, Team: Tottenham, Market Value: €18.00m, Position: Defensive Midfield, Nationality: Denmark
+Name: Oliver Skipp, Age: 23, Height: 1,75 m, Team: Tottenham, Market Value: €15.00m, Position: Defensive Midfield, Nationality: England
+Name: Pape Matar Sarr, Age: 21, Height: 1,84 m, Team: Tottenham, Market Value: €45.00m, Position: Central Midfield, Nationality: Senegal
+Name: Rodrigo Bentancur, Age: 26, Height: 1,87 m, Team: Tottenham, Market Value: €35.00m, Position: Central Midfield, Nationality: Uruguay
+Name: Ryan Sessegnon, Age: 24, Height: 1,78 m, Team: Tottenham, Market Value: €10.00m, Position: Left Midfield, Nationality: England
+Name: James Maddison, Age: 27, Height: 1,75 m, Team: Tottenham, Market Value: €70.00m, Position: Attacking Midfield, Nationality: England
+Name: Giovani Lo Celso, Age: 28, Height: 1,77 m, Team: Tottenham, Market Value: €16.00m, Position: Attacking Midfield, Nationality: Argentina
+Name: Heung-min Son, Age: 31, Height: 1,84 m, Team: Tottenham, Market Value: €45.00m, Position: Left Winger, Nationality: Korea, South
+Name: Bryan Gil, Age: 23, Height: 1,75 m, Team: Tottenham, Market Value: €14.00m, Position: Left Winger, Nationality: Spain
+Name: Manor Solomon, Age: 24, Height: 1,70 m, Team: Tottenham, Market Value: €13.00m, Position: Left Winger, Nationality: Israel
+Name: Dejan Kulusevski, Age: 24, Height: 1,86 m, Team: Tottenham, Market Value: €55.00m, Position: Right Winger, Nationality: Sweden
+Name: Brennan Johnson, Age: 23, Height: 1,86 m, Team: Tottenham, Market Value: €48.00m, Position: Right Winger, Nationality: Wales
+Name: Richarlison, Age: 27, Height: 1,84 m, Team: Tottenham, Market Value: €38.00m, Position: Centre-Forward, Nationality: Brazil
+Name: Timo Werner, Age: 28, Height: 1,80 m, Team: Tottenham, Market Value: €17.00m, Position: Centre-Forward, Nationality: Germany
+Man Utd
+Name: André Onana, Age: 28, Height: 1,90 m, Team: Man Utd, Market Value: €35.00m, Position: Goalkeeper, Nationality: Cameroon
+Name: Altay Bayındır, Age: 26, Height: 1,98 m, Team: Man Utd, Market Value: €10.00m, Position: Goalkeeper, Nationality: Türkiye
+Name: Tom Heaton, Age: 38, Height: 1,88 m, Team: Man Utd, Market Value: €250k, Position: Goalkeeper, Nationality: England
+Name: Lisandro Martínez, Age: 26, Height: 1,75 m, Team: Man Utd, Market Value: €45.00m, Position: Centre-Back, Nationality: Argentina
+Name: Raphaël Varane, Age: 31, Height: 1,91 m, Team: Man Utd, Market Value: €20.00m, Position: Centre-Back, Nationality: France
+Name: Harry Maguire, Age: 31, Height: 1,94 m, Team: Man Utd, Market Value: €18.00m, Position: Centre-Back, Nationality: England
+Name: Victor Lindelöf, Age: 29, Height: 1,87 m, Team: Man Utd, Market Value: €15.00m, Position: Centre-Back, Nationality: Sweden
+Name: Willy Kambwala, Age: 19, Height: 1,92 m, Team: Man Utd, Market Value: €5.00m, Position: Centre-Back, Nationality: France
+Name: Jonny Evans, Age: 36, Height: 1,88 m, Team: Man Utd, Market Value: €2.00m, Position: Centre-Back, Nationality: Northern Ireland
+Name: Luke Shaw, Age: 28, Height: 1,78 m, Team: Man Utd, Market Value: €32.00m, Position: Left-Back, Nationality: England
+Name: Tyrell Malacia, Age: 24, Height: 1,69 m, Team: Man Utd, Market Value: €18.00m, Position: Left-Back, Nationality: Netherlands
+Name: Brandon Williams, Age: 23, Height: 1,80 m, Team: Man Utd, Market Value: €2.50m, Position: Left-Back, Nationality: England
+Name: Diogo Dalot, Age: 25, Height: 1,84 m, Team: Man Utd, Market Value: €35.00m, Position: Right-Back, Nationality: Portugal
+Name: Aaron Wan-Bissaka, Age: 26, Height: 1,83 m, Team: Man Utd, Market Value: €20.00m, Position: Right-Back, Nationality: England
+Name: Scott McTominay, Age: 27, Height: 1,91 m, Team: Man Utd, Market Value: €32.00m, Position: Defensive Midfield, Nationality: Scotland
+Name: Sofyan Amrabat, Age: 27, Height: 1,85 m, Team: Man Utd, Market Value: €22.00m, Position: Defensive Midfield, Nationality: Morocco
+Name: Casemiro, Age: 32, Height: 1,85 m, Team: Man Utd, Market Value: €20.00m, Position: Defensive Midfield, Nationality: Brazil
+Name: Kobbie Mainoo, Age: 19, Height: 1,75 m, Team: Man Utd, Market Value: €50.00m, Position: Central Midfield, Nationality: England
+Name: Christian Eriksen, Age: 32, Height: 1,82 m, Team: Man Utd, Market Value: €8.00m, Position: Central Midfield, Nationality: Denmark
+Name: Daniel Gore, Age: 19, Height: None, Team: Man Utd, Market Value: €900k, Position: Central Midfield, Nationality: England
+Name: Bruno Fernandes, Age: 29, Height: 1,79 m, Team: Man Utd, Market Value: €70.00m, Position: Attacking Midfield, Nationality: Portugal
+Name: Mason Mount, Age: 25, Height: 1,81 m, Team: Man Utd, Market Value: €35.00m, Position: Attacking Midfield, Nationality: England
+Name: Shola Shoretire, Age: 20, Height: 1,71 m, Team: Man Utd, Market Value: €4.00m, Position: Attacking Midfield, Nationality: England
+Name: Marcus Rashford, Age: 26, Height: 1,85 m, Team: Man Utd, Market Value: €60.00m, Position: Left Winger, Nationality: England
+Name: Alejandro Garnacho, Age: 19, Height: 1,80 m, Team: Man Utd, Market Value: €45.00m, Position: Left Winger, Nationality: Argentina
+Name: Antony, Age: 24, Height: 1,72 m, Team: Man Utd, Market Value: €25.00m, Position: Right Winger, Nationality: Brazil
+Name: Amad Diallo, Age: 21, Height: 1,73 m, Team: Man Utd, Market Value: €18.00m, Position: Right Winger, Nationality: Cote d'Ivoire
+Name: Omari Forson, Age: 19, Height: 1,79 m, Team: Man Utd, Market Value: €2.00m, Position: Right Winger, Nationality: England
+Name: Rasmus Højlund, Age: 21, Height: 1,91 m, Team: Man Utd, Market Value: €65.00m, Position: Centre-Forward, Nationality: Denmark
+Name: Anthony Martial, Age: 28, Height: 1,81 m, Team: Man Utd, Market Value: €10.00m, Position: Centre-Forward, Nationality: France
+Brentford
+Name: Mark Flekken, Age: 31, Height: 1,95 m, Team: Brentford, Market Value: €12.00m, Position: Goalkeeper, Nationality: Netherlands
+Name: Thomas Strakosha, Age: 29, Height: 1,93 m, Team: Brentford, Market Value: €3.00m, Position: Goalkeeper, Nationality: Albania
+Name: Hákon Rafn Valdimarsson, Age: 22, Height: 1,95 m, Team: Brentford, Market Value: €2.50m, Position: Goalkeeper, Nationality: Iceland
+Name: Matthew Cox, Age: 21, Height: 1,83 m, Team: Brentford, Market Value: €800k, Position: Goalkeeper, Nationality: England
+Name: Ellery Balcombe, Age: 24, Height: 1,90 m, Team: Brentford, Market Value: €300k, Position: Goalkeeper, Nationality: England
+Name: Nathan Collins, Age: 23, Height: 1,93 m, Team: Brentford, Market Value: €25.00m, Position: Centre-Back, Nationality: Ireland
+Name: Kristoffer Ajer, Age: 26, Height: 1,98 m, Team: Brentford, Market Value: €15.00m, Position: Centre-Back, Nationality: Norway
+Name: Ethan Pinnock, Age: 31, Height: 1,94 m, Team: Brentford, Market Value: €12.00m, Position: Centre-Back, Nationality: Jamaica
+Name: Zanka, Age: 34, Height: 1,89 m, Team: Brentford, Market Value: €1.00m, Position: Centre-Back, Nationality: Denmark
+Name: Ben Mee, Age: 34, Height: 1,80 m, Team: Brentford, Market Value: €1.00m, Position: Centre-Back, Nationality: England
+Name: Charlie Goode, Age: 28, Height: 1,96 m, Team: Brentford, Market Value: €500k, Position: Centre-Back, Nationality: England
+Name: Rico Henry, Age: 26, Height: 1,70 m, Team: Brentford, Market Value: €20.00m, Position: Left-Back, Nationality: England
+Name: Aaron Hickey, Age: 22, Height: 1,85 m, Team: Brentford, Market Value: €28.00m, Position: Right-Back, Nationality: Scotland
+Name: Mads Roerslev, Age: 24, Height: 1,84 m, Team: Brentford, Market Value: €10.00m, Position: Right-Back, Nationality: Denmark
+Name: Fin Stevens, Age: 21, Height: 1,79 m, Team: Brentford, Market Value: €450k, Position: Right-Back, Nationality: Wales
+Name: Vitaly Janelt, Age: 26, Height: 1,84 m, Team: Brentford, Market Value: €22.00m, Position: Defensive Midfield, Nationality: Germany
+Name: Christian Nørgaard, Age: 30, Height: 1,87 m, Team: Brentford, Market Value: €18.00m, Position: Defensive Midfield, Nationality: Denmark
+Name: Yunus Emre Konak, Age: 18, Height: 1,81 m, Team: Brentford, Market Value: €3.50m, Position: Defensive Midfield, Nationality: Türkiye
+Name: Mathias Jensen, Age: 28, Height: 1,80 m, Team: Brentford, Market Value: €28.00m, Position: Central Midfield, Nationality: Denmark
+Name: Josh Dasilva, Age: 25, Height: 1,84 m, Team: Brentford, Market Value: €10.00m, Position: Central Midfield, Nationality: England
+Name: Frank Onyeka, Age: 26, Height: 1,83 m, Team: Brentford, Market Value: €9.00m, Position: Central Midfield, Nationality: Nigeria
+Name: Shandon Baptiste, Age: 26, Height: 1,80 m, Team: Brentford, Market Value: €2.50m, Position: Central Midfield, Nationality: Grenada
+Name: Paris Maghoma, Age: 23, Height: 1,84 m, Team: Brentford, Market Value: €350k, Position: Central Midfield, Nationality: England
+Name: Ryan Trevitt, Age: 21, Height: None, Team: Brentford, Market Value: €275k, Position: Central Midfield, Nationality: England
+Name: Yegor Yarmolyuk, Age: 20, Height: 1,80 m, Team: Brentford, Market Value: €10.00m, Position: Attacking Midfield, Nationality: Ukraine
+Name: Saman Ghoddos, Age: 30, Height: 1,75 m, Team: Brentford, Market Value: €2.00m, Position: Attacking Midfield, Nationality: Iran
+Name: Myles Peart-Harris, Age: 21, Height: 1,87 m, Team: Brentford, Market Value: €700k, Position: Attacking Midfield, Nationality: Jamaica
+Name: Yoane Wissa, Age: 27, Height: 1,76 m, Team: Brentford, Market Value: €28.00m, Position: Left Winger, Nationality: DR Congo
+Name: Keane Lewis-Potter, Age: 23, Height: 1,70 m, Team: Brentford, Market Value: €15.00m, Position: Left Winger, Nationality: England
+Name: Mikkel Damsgaard, Age: 23, Height: 1,80 m, Team: Brentford, Market Value: €10.00m, Position: Left Winger, Nationality: Denmark
+Name: Bryan Mbeumo, Age: 24, Height: 1,71 m, Team: Brentford, Market Value: €40.00m, Position: Right Winger, Nationality: Cameroon
+Name: Kevin Schade, Age: 22, Height: 1,85 m, Team: Brentford, Market Value: €22.00m, Position: Right Winger, Nationality: Germany
+Name: Ivan Toney, Age: 28, Height: 1,85 m, Team: Brentford, Market Value: €50.00m, Position: Centre-Forward, Nationality: England
+Name: Neal Maupay, Age: 27, Height: 1,73 m, Team: Brentford, Market Value: €12.00m, Position: Centre-Forward, Nationality: France
+West Ham
+Name: Alphonse Areola, Age: 31, Height: 1,95 m, Team: West Ham, Market Value: €10.00m, Position: Goalkeeper, Nationality: France
+Name: Lukasz Fabianski, Age: 39, Height: 1,90 m, Team: West Ham, Market Value: €700k, Position: Goalkeeper, Nationality: Poland
+Name: Joseph Anang, Age: 24, Height: 1,90 m, Team: West Ham, Market Value: €300k, Position: Goalkeeper, Nationality: England
+Name: Nayef Aguerd, Age: 28, Height: 1,90 m, Team: West Ham, Market Value: €35.00m, Position: Centre-Back, Nationality: Morocco
+Name: Kurt Zouma, Age: 29, Height: 1,90 m, Team: West Ham, Market Value: €25.00m, Position: Centre-Back, Nationality: France
+Name: Konstantinos Mavropanos, Age: 26, Height: 1,94 m, Team: West Ham, Market Value: €20.00m, Position: Centre-Back, Nationality: Greece
+Name: Angelo Ogbonna, Age: 36, Height: 1,91 m, Team: West Ham, Market Value: €700k, Position: Centre-Back, Nationality: Italy
+Name: Emerson, Age: 29, Height: 1,76 m, Team: West Ham, Market Value: €12.00m, Position: Left-Back, Nationality: Italy
+Name: Aaron Cresswell, Age: 34, Height: 1,70 m, Team: West Ham, Market Value: €900k, Position: Left-Back, Nationality: England
+Name: Ben Johnson, Age: 24, Height: 1,84 m, Team: West Ham, Market Value: €8.00m, Position: Right-Back, Nationality: England
+Name: Vladimír Coufal, Age: 31, Height: 1,74 m, Team: West Ham, Market Value: €8.00m, Position: Right-Back, Nationality: Czech Republic
+Name: Edson Álvarez, Age: 26, Height: 1,90 m, Team: West Ham, Market Value: €35.00m, Position: Defensive Midfield, Nationality: Mexico
+Name: Tomas Soucek, Age: 29, Height: 1,92 m, Team: West Ham, Market Value: €30.00m, Position: Defensive Midfield, Nationality: Czech Republic
+Name: Kalvin Phillips, Age: 28, Height: 1,79 m, Team: West Ham, Market Value: €25.00m, Position: Defensive Midfield, Nationality: England
+Name: Flynn Downes, Age: 25, Height: 1,78 m, Team: West Ham, Market Value: €9.00m, Position: Defensive Midfield, Nationality: England
+Name: James Ward-Prowse, Age: 29, Height: 1,77 m, Team: West Ham, Market Value: €30.00m, Position: Central Midfield, Nationality: England
+Name: George Earthy, Age: 19, Height: 1,80 m, Team: West Ham, Market Value: €1.00m, Position: Central Midfield, Nationality: England
+Name: Lucas Paquetá, Age: 26, Height: 1,80 m, Team: West Ham, Market Value: €65.00m, Position: Attacking Midfield, Nationality: Brazil
+Name: Mohammed Kudus, Age: 23, Height: 1,77 m, Team: West Ham, Market Value: €50.00m, Position: Attacking Midfield, Nationality: Ghana
+Name: Maxwel Cornet, Age: 27, Height: 1,79 m, Team: West Ham, Market Value: €9.00m, Position: Left Winger, Nationality: Cote d'Ivoire
+Name: Jarrod Bowen, Age: 27, Height: 1,75 m, Team: West Ham, Market Value: €50.00m, Position: Right Winger, Nationality: England
+Name: Danny Ings, Age: 31, Height: 1,77 m, Team: West Ham, Market Value: €8.00m, Position: Centre-Forward, Nationality: England
+Name: Michail Antonio, Age: 34, Height: 1,80 m, Team: West Ham, Market Value: €4.00m, Position: Centre-Forward, Nationality: Jamaica
+Name: Callum Marshall, Age: 19, Height: 1,72 m, Team: West Ham, Market Value: €2.00m, Position: Centre-Forward, Nationality: Northern Ireland
+Name: Divin Mubama, Age: 19, Height: 1,83 m, Team: West Ham, Market Value: €1.00m, Position: Centre-Forward, Nationality: England
+Everton
+Name: Jordan Pickford, Age: 30, Height: 1,85 m, Team: Everton, Market Value: €22.00m, Position: Goalkeeper, Nationality: England
+Name: João Virgínia, Age: 24, Height: 1,92 m, Team: Everton, Market Value: €800k, Position: Goalkeeper, Nationality: Portugal
+Name: Andy Lonergan, Age: 40, Height: 1,93 m, Team: Everton, Market Value: €100k, Position: Goalkeeper, Nationality: England
+Name: Jarrad Branthwaite, Age: 21, Height: 1,95 m, Team: Everton, Market Value: €42.00m, Position: Centre-Back, Nationality: England
+Name: James Tarkowski, Age: 31, Height: 1,85 m, Team: Everton, Market Value: €13.00m, Position: Centre-Back, Nationality: England
+Name: Ben Godfrey, Age: 26, Height: 1,84 m, Team: Everton, Market Value: €10.00m, Position: Centre-Back, Nationality: England
+Name: Michael Keane, Age: 31, Height: 1,88 m, Team: Everton, Market Value: €6.00m, Position: Centre-Back, Nationality: England
+Name: Mason Holgate, Age: 27, Height: 1,87 m, Team: Everton, Market Value: €5.00m, Position: Centre-Back, Nationality: England
+Name: Vitaliy Mykolenko, Age: 25, Height: 1,80 m, Team: Everton, Market Value: €28.00m, Position: Left-Back, Nationality: Ukraine
+Name: Ashley Young, Age: 38, Height: 1,75 m, Team: Everton, Market Value: €500k, Position: Left-Back, Nationality: England
+Name: Nathan Patterson, Age: 22, Height: 1,89 m, Team: Everton, Market Value: €15.00m, Position: Right-Back, Nationality: Scotland
+Name: Séamus Coleman, Age: 35, Height: 1,77 m, Team: Everton, Market Value: €500k, Position: Right-Back, Nationality: Ireland
+Name: Amadou Onana, Age: 22, Height: 1,95 m, Team: Everton, Market Value: €50.00m, Position: Defensive Midfield, Nationality: Belgium
+Name: James Garner, Age: 23, Height: 1,82 m, Team: Everton, Market Value: €22.00m, Position: Defensive Midfield, Nationality: England
+Name: Abdoulaye Doucouré, Age: 31, Height: 1,83 m, Team: Everton, Market Value: €10.00m, Position: Central Midfield, Nationality: Mali
+Name: André Gomes, Age: 30, Height: 1,88 m, Team: Everton, Market Value: €10.00m, Position: Central Midfield, Nationality: Portugal
+Name: Idrissa Gueye, Age: 34, Height: 1,74 m, Team: Everton, Market Value: €3.00m, Position: Central Midfield, Nationality: Senegal
+Name: Dele Alli, Age: 28, Height: 1,88 m, Team: Everton, Market Value: €5.00m, Position: Attacking Midfield, Nationality: England
+Name: Dwight McNeil, Age: 24, Height: 1,83 m, Team: Everton, Market Value: €22.00m, Position: Left Winger, Nationality: England
+Name: Arnaut Danjuma, Age: 27, Height: 1,78 m, Team: Everton, Market Value: €13.00m, Position: Left Winger, Nationality: Netherlands
+Name: Lewis Dobbin, Age: 21, Height: 1,75 m, Team: Everton, Market Value: €2.50m, Position: Left Winger, Nationality: England
+Name: Dominic Calvert-Lewin, Age: 27, Height: 1,89 m, Team: Everton, Market Value: €22.00m, Position: Centre-Forward, Nationality: England
+Name: Beto, Age: 26, Height: 1,94 m, Team: Everton, Market Value: €20.00m, Position: Centre-Forward, Nationality: Portugal
+Name: Chermiti, Age: 20, Height: 1,92 m, Team: Everton, Market Value: €9.00m, Position: Centre-Forward, Nationality: Portugal
+Nottm Forest
+Name: Matt Turner, Age: 29, Height: 1,91 m, Team: Nottm Forest, Market Value: €7.00m, Position: Goalkeeper, Nationality: United States
+Name: Odysseas Vlachodimos, Age: 30, Height: 1,91 m, Team: Nottm Forest, Market Value: €7.00m, Position: Goalkeeper, Nationality: Greece
+Name: Matz Sels, Age: 32, Height: 1,88 m, Team: Nottm Forest, Market Value: €7.00m, Position: Goalkeeper, Nationality: Belgium
+Name: Wayne Hennessey, Age: 37, Height: 1,98 m, Team: Nottm Forest, Market Value: €250k, Position: Goalkeeper, Nationality: Wales
+Name: Murillo, Age: 21, Height: 1,84 m, Team: Nottm Forest, Market Value: €35.00m, Position: Centre-Back, Nationality: Brazil
+Name: Moussa Niakhaté, Age: 28, Height: 1,90 m, Team: Nottm Forest, Market Value: €16.00m, Position: Centre-Back, Nationality: Senegal
+Name: Andrew Omobamidele, Age: 22, Height: 1,88 m, Team: Nottm Forest, Market Value: €11.00m, Position: Centre-Back, Nationality: Ireland
+Name: Willy Boly, Age: 33, Height: 1,95 m, Team: Nottm Forest, Market Value: €2.50m, Position: Centre-Back, Nationality: Cote d'Ivoire
+Name: Felipe, Age: 35, Height: 1,90 m, Team: Nottm Forest, Market Value: €1.50m, Position: Centre-Back, Nationality: Brazil
+Name: Nuno Tavares, Age: 24, Height: 1,83 m, Team: Nottm Forest, Market Value: €15.00m, Position: Left-Back, Nationality: Portugal
+Name: Harry Toffolo, Age: 28, Height: 1,83 m, Team: Nottm Forest, Market Value: €5.00m, Position: Left-Back, Nationality: England
+Name: Neco Williams, Age: 23, Height: 1,83 m, Team: Nottm Forest, Market Value: €17.00m, Position: Right-Back, Nationality: Wales
+Name: Ola Aina, Age: 27, Height: 1,84 m, Team: Nottm Forest, Market Value: €12.00m, Position: Right-Back, Nationality: Nigeria
+Name: Gonzalo Montiel, Age: 27, Height: 1,75 m, Team: Nottm Forest, Market Value: €10.00m, Position: Right-Back, Nationality: Argentina
+Name: Ibrahim Sangaré, Age: 26, Height: 1,91 m, Team: Nottm Forest, Market Value: €30.00m, Position: Defensive Midfield, Nationality: Cote d'Ivoire
+Name: Cheikhou Kouyaté, Age: 34, Height: 1,89 m, Team: Nottm Forest, Market Value: €1.00m, Position: Defensive Midfield, Nationality: Senegal
+Name: Danilo, Age: 23, Height: 1,77 m, Team: Nottm Forest, Market Value: €28.00m, Position: Central Midfield, Nationality: Brazil
+Name: Nicolás Domínguez, Age: 25, Height: 1,79 m, Team: Nottm Forest, Market Value: €17.00m, Position: Central Midfield, Nationality: Argentina
+Name: Ryan Yates, Age: 26, Height: 1,90 m, Team: Nottm Forest, Market Value: €12.00m, Position: Central Midfield, Nationality: England
+Name: Lewis O'Brien, Age: 25, Height: 1,73 m, Team: Nottm Forest, Market Value: €5.00m, Position: Central Midfield, Nationality: England
+Name: Harry Arter, Age: 34, Height: 1,77 m, Team: Nottm Forest, Market Value: €400k, Position: Central Midfield, Nationality: Ireland
+Name: Morgan Gibbs-White, Age: 24, Height: 1,71 m, Team: Nottm Forest, Market Value: €40.00m, Position: Attacking Midfield, Nationality: England
+Name: Giovanni Reyna, Age: 21, Height: 1,85 m, Team: Nottm Forest, Market Value: €18.00m, Position: Attacking Midfield, Nationality: United States
+Name: Brandon Aguilera, Age: 20, Height: 1,79 m, Team: Nottm Forest, Market Value: €300k, Position: Attacking Midfield, Nationality: Costa Rica
+Name: Callum Hudson-Odoi, Age: 23, Height: 1,78 m, Team: Nottm Forest, Market Value: €18.00m, Position: Left Winger, Nationality: England
+Name: Emmanuel Dennis, Age: 26, Height: 1,75 m, Team: Nottm Forest, Market Value: €4.20m, Position: Left Winger, Nationality: Nigeria
+Name: Alex Mighten, Age: 22, Height: 1,71 m, Team: Nottm Forest, Market Value: €600k, Position: Left Winger, Nationality: England
+Name: Anthony Elanga, Age: 22, Height: 1,78 m, Team: Nottm Forest, Market Value: €22.00m, Position: Right Winger, Nationality: Sweden
+Name: Josh Bowler, Age: 25, Height: 1,84 m, Team: Nottm Forest, Market Value: €1.50m, Position: Right Winger, Nationality: England
+Name: Taiwo Awoniyi, Age: 26, Height: 1,83 m, Team: Nottm Forest, Market Value: €28.00m, Position: Centre-Forward, Nationality: Nigeria
+Name: Chris Wood, Age: 32, Height: 1,91 m, Team: Nottm Forest, Market Value: €7.00m, Position: Centre-Forward, Nationality: New Zealand
+Name: Divock Origi, Age: 29, Height: 1,89 m, Team: Nottm Forest, Market Value: €5.00m, Position: Centre-Forward, Nationality: Belgium
+Name: Rodrigo Ribeiro, Age: 19, Height: 1,85 m, Team: Nottm Forest, Market Value: €3.00m, Position: Centre-Forward, Nationality: Portugal
+Aston Villa
+Name: Emiliano Martínez, Age: 31, Height: 1,95 m, Team: Aston Villa, Market Value: €28.00m, Position: Goalkeeper, Nationality: Argentina
+Name: Joe Gauci, Age: 23, Height: 1,94 m, Team: Aston Villa, Market Value: €1.50m, Position: Goalkeeper, Nationality: Australia
+Name: Robin Olsen, Age: 34, Height: 1,96 m, Team: Aston Villa, Market Value: €1.50m, Position: Goalkeeper, Nationality: Sweden
+Name: Filip Marschall, Age: 21, Height: 1,95 m, Team: Aston Villa, Market Value: €800k, Position: Goalkeeper, Nationality: England
+Name: Viljami Sinisalo, Age: 22, Height: 1,90 m, Team: Aston Villa, Market Value: €600k, Position: Goalkeeper, Nationality: Finland
+Name: Pau Torres, Age: 27, Height: 1,92 m, Team: Aston Villa, Market Value: €45.00m, Position: Centre-Back, Nationality: Spain
+Name: Ezri Konsa, Age: 26, Height: 1,83 m, Team: Aston Villa, Market Value: €35.00m, Position: Centre-Back, Nationality: England
+Name: Diego Carlos, Age: 31, Height: 1,85 m, Team: Aston Villa, Market Value: €16.00m, Position: Centre-Back, Nationality: Brazil
+Name: Tyrone Mings, Age: 31, Height: 1,96 m, Team: Aston Villa, Market Value: €13.00m, Position: Centre-Back, Nationality: England
+Name: Clément Lenglet, Age: 29, Height: 1,86 m, Team: Aston Villa, Market Value: €10.00m, Position: Centre-Back, Nationality: France
+Name: Calum Chambers, Age: 29, Height: 1,82 m, Team: Aston Villa, Market Value: €4.00m, Position: Centre-Back, Nationality: England
+Name: Kortney Hause, Age: 28, Height: 1,91 m, Team: Aston Villa, Market Value: €2.00m, Position: Centre-Back, Nationality: England
+Name: Álex Moreno, Age: 31, Height: 1,79 m, Team: Aston Villa, Market Value: €13.00m, Position: Left-Back, Nationality: Spain
+Name: Lucas Digne, Age: 30, Height: 1,78 m, Team: Aston Villa, Market Value: €12.00m, Position: Left-Back, Nationality: France
+Name: Lino Sousa, Age: 19, Height: 1,85 m, Team: Aston Villa, Market Value: €2.00m, Position: Left-Back, Nationality: England
+Name: Matty Cash, Age: 26, Height: 1,85 m, Team: Aston Villa, Market Value: €28.00m, Position: Right-Back, Nationality: Poland
+Name: Kaine Kesler-Hayden, Age: 21, Height: 1,75 m, Team: Aston Villa, Market Value: €2.20m, Position: Right-Back, Nationality: England
+Name: Boubacar Kamara, Age: 24, Height: 1,84 m, Team: Aston Villa, Market Value: €38.00m, Position: Defensive Midfield, Nationality: France
+Name: Douglas Luiz, Age: 26, Height: 1,77 m, Team: Aston Villa, Market Value: €70.00m, Position: Central Midfield, Nationality: Brazil
+Name: John McGinn, Age: 29, Height: 1,78 m, Team: Aston Villa, Market Value: €30.00m, Position: Central Midfield, Nationality: Scotland
+Name: Youri Tielemans, Age: 27, Height: 1,77 m, Team: Aston Villa, Market Value: €25.00m, Position: Central Midfield, Nationality: Belgium
+Name: Tim Iroegbunam, Age: 20, Height: 1,83 m, Team: Aston Villa, Market Value: €4.00m, Position: Central Midfield, Nationality: England
+Name: Jacob Ramsey, Age: 23, Height: 1,80 m, Team: Aston Villa, Market Value: €35.00m, Position: Attacking Midfield, Nationality: England
+Name: Nicolò Zaniolo, Age: 24, Height: 1,90 m, Team: Aston Villa, Market Value: €20.00m, Position: Attacking Midfield, Nationality: Italy
+Name: Morgan Rogers, Age: 21, Height: 1,87 m, Team: Aston Villa, Market Value: €15.00m, Position: Left Winger, Nationality: England
+Name: Moussa Diaby, Age: 24, Height: 1,70 m, Team: Aston Villa, Market Value: €55.00m, Position: Right Winger, Nationality: France
+Name: Leon Bailey, Age: 26, Height: 1,78 m, Team: Aston Villa, Market Value: €42.00m, Position: Right Winger, Nationality: Jamaica
+Name: Emiliano Buendía, Age: 27, Height: 1,72 m, Team: Aston Villa, Market Value: €22.00m, Position: Right Winger, Nationality: Argentina
+Name: Ollie Watkins, Age: 28, Height: 1,80 m, Team: Aston Villa, Market Value: €65.00m, Position: Centre-Forward, Nationality: England
+Name: Jhon Durán, Age: 20, Height: 1,85 m, Team: Aston Villa, Market Value: €20.00m, Position: Centre-Forward, Nationality: Colombia
+Newcastle
+Name: Nick Pope, Age: 32, Height: 1,98 m, Team: Newcastle, Market Value: €16.00m, Position: Goalkeeper, Nationality: England
+Name: Martin Dúbravka, Age: 35, Height: 1,91 m, Team: Newcastle, Market Value: €1.00m, Position: Goalkeeper, Nationality: Slovakia
+Name: Loris Karius, Age: 31, Height: 1,91 m, Team: Newcastle, Market Value: €1.00m, Position: Goalkeeper, Nationality: Germany
+Name: Mark Gillespie, Age: 32, Height: 1,91 m, Team: Newcastle, Market Value: €300k, Position: Goalkeeper, Nationality: England
+Name: Sven Botman, Age: 24, Height: 1,95 m, Team: Newcastle, Market Value: €45.00m, Position: Centre-Back, Nationality: Netherlands
+Name: Fabian Schär, Age: 32, Height: 1,86 m, Team: Newcastle, Market Value: €10.00m, Position: Centre-Back, Nationality: Switzerland
+Name: Jamaal Lascelles, Age: 30, Height: 1,88 m, Team: Newcastle, Market Value: €7.00m, Position: Centre-Back, Nationality: England
+Name: Paul Dummett, Age: 32, Height: 1,83 m, Team: Newcastle, Market Value: €900k, Position: Centre-Back, Nationality: Wales
+Name: Kell Watts, Age: 24, Height: 1,92 m, Team: Newcastle, Market Value: €250k, Position: Centre-Back, Nationality: England
+Name: Lewis Hall, Age: 19, Height: 1,79 m, Team: Newcastle, Market Value: €18.00m, Position: Left-Back, Nationality: England
+Name: Matt Targett, Age: 28, Height: 1,83 m, Team: Newcastle, Market Value: €10.00m, Position: Left-Back, Nationality: England
+Name: Dan Burn, Age: 32, Height: 2,01 m, Team: Newcastle, Market Value: €8.00m, Position: Left-Back, Nationality: England
+Name: Jamal Lewis, Age: 26, Height: 1,78 m, Team: Newcastle, Market Value: €3.50m, Position: Left-Back, Nationality: Northern Ireland
+Name: Tino Livramento, Age: 21, Height: 1,82 m, Team: Newcastle, Market Value: €35.00m, Position: Right-Back, Nationality: England
+Name: Kieran Trippier, Age: 33, Height: 1,73 m, Team: Newcastle, Market Value: €10.00m, Position: Right-Back, Nationality: England
+Name: Emil Krafth, Age: 29, Height: 1,84 m, Team: Newcastle, Market Value: €2.50m, Position: Right-Back, Nationality: Sweden
+Name: Harrison Ashby, Age: 22, Height: 1,79 m, Team: Newcastle, Market Value: €1.20m, Position: Right-Back, Nationality: Scotland
+Name: Bruno Guimarães, Age: 26, Height: 1,82 m, Team: Newcastle, Market Value: €85.00m, Position: Defensive Midfield, Nationality: Brazil
+Name: Sandro Tonali, Age: 24, Height: 1,81 m, Team: Newcastle, Market Value: €38.00m, Position: Defensive Midfield, Nationality: Italy
+Name: Isaac Hayden, Age: 29, Height: 1,87 m, Team: Newcastle, Market Value: €1.80m, Position: Defensive Midfield, Nationality: England
+Name: Joelinton, Age: 27, Height: 1,86 m, Team: Newcastle, Market Value: €40.00m, Position: Central Midfield, Nationality: Brazil
+Name: Joe Willock, Age: 24, Height: 1,86 m, Team: Newcastle, Market Value: €30.00m, Position: Central Midfield, Nationality: England
+Name: Sean Longstaff, Age: 26, Height: 1,87 m, Team: Newcastle, Market Value: €25.00m, Position: Central Midfield, Nationality: England
+Name: Lewis Miley, Age: 18, Height: 1,89 m, Team: Newcastle, Market Value: €22.00m, Position: Central Midfield, Nationality: England
+Name: Elliot Anderson, Age: 21, Height: 1,79 m, Team: Newcastle, Market Value: €15.00m, Position: Central Midfield, Nationality: Scotland
+Name: Jeff Hendrick, Age: 32, Height: 1,85 m, Team: Newcastle, Market Value: €500k, Position: Central Midfield, Nationality: Ireland
+Name: Matt Ritchie, Age: 34, Height: 1,73 m, Team: Newcastle, Market Value: €1.00m, Position: Right Midfield, Nationality: Scotland
+Name: Anthony Gordon, Age: 23, Height: 1,82 m, Team: Newcastle, Market Value: €60.00m, Position: Left Winger, Nationality: England
+Name: Harvey Barnes, Age: 26, Height: 1,82 m, Team: Newcastle, Market Value: €35.00m, Position: Left Winger, Nationality: England
+Name: Ryan Fraser, Age: 30, Height: 1,63 m, Team: Newcastle, Market Value: €3.00m, Position: Left Winger, Nationality: Scotland
+Name: Miguel Almirón, Age: 30, Height: 1,74 m, Team: Newcastle, Market Value: €20.00m, Position: Right Winger, Nationality: Paraguay
+Name: Jacob Murphy, Age: 29, Height: 1,73 m, Team: Newcastle, Market Value: €15.00m, Position: Right Winger, Nationality: England
+Name: Alexander Isak, Age: 24, Height: 1,92 m, Team: Newcastle, Market Value: €75.00m, Position: Centre-Forward, Nationality: Sweden
+Name: Callum Wilson, Age: 32, Height: 1,80 m, Team: Newcastle, Market Value: €13.00m, Position: Centre-Forward, Nationality: England
+Sheff Utd
+Name: Ivo Grbic, Age: 28, Height: 1,95 m, Team: Sheff Utd, Market Value: €3.50m, Position: Goalkeeper, Nationality: Croatia
+Name: Wes Foderingham, Age: 33, Height: 1,85 m, Team: Sheff Utd, Market Value: €900k, Position: Goalkeeper, Nationality: England
+Name: Adam Davies, Age: 31, Height: 1,85 m, Team: Sheff Utd, Market Value: €500k, Position: Goalkeeper, Nationality: Wales
+Name: Jordan Amissah, Age: 22, Height: 1,98 m, Team: Sheff Utd, Market Value: €250k, Position: Goalkeeper, Nationality: Ghana
+Name: Anel Ahmedhodzic, Age: 25, Height: 1,90 m, Team: Sheff Utd, Market Value: €18.00m, Position: Centre-Back, Nationality: Bosnia-Herzegovina
+Name: Auston Trusty, Age: 25, Height: 1,90 m, Team: Sheff Utd, Market Value: €7.00m, Position: Centre-Back, Nationality: United States
+Name: John Egan, Age: 31, Height: 1,85 m, Team: Sheff Utd, Market Value: €4.00m, Position: Centre-Back, Nationality: Ireland
+Name: Jack Robinson, Age: 30, Height: 1,80 m, Team: Sheff Utd, Market Value: €1.00m, Position: Centre-Back, Nationality: England
+Name: Chris Basham, Age: 35, Height: 1,90 m, Team: Sheff Utd, Market Value: €300k, Position: Centre-Back, Nationality: England
+Name: Yasser Larouci, Age: 23, Height: 1,76 m, Team: Sheff Utd, Market Value: €3.00m, Position: Left-Back, Nationality: Algeria
+Name: Max Lowe, Age: 27, Height: 1,75 m, Team: Sheff Utd, Market Value: €2.50m, Position: Left-Back, Nationality: England
+Name: Rhys Norrington-Davies, Age: 25, Height: 1,81 m, Team: Sheff Utd, Market Value: €2.50m, Position: Left-Back, Nationality: Wales
+Name: Jayden Bogle, Age: 23, Height: 1,78 m, Team: Sheff Utd, Market Value: €3.80m, Position: Right-Back, Nationality: England
+Name: George Baldock, Age: 31, Height: 1,78 m, Team: Sheff Utd, Market Value: €2.50m, Position: Right-Back, Nationality: Greece
+Name: Femi Seriki, Age: 22, Height: 1,83 m, Team: Sheff Utd, Market Value: €300k, Position: Right-Back, Nationality: England
+Name: Vini Souza, Age: 25, Height: 1,87 m, Team: Sheff Utd, Market Value: €12.00m, Position: Defensive Midfield, Nationality: Brazil
+Name: Gustavo Hamer, Age: 26, Height: 1,69 m, Team: Sheff Utd, Market Value: €15.00m, Position: Central Midfield, Nationality: Netherlands
+Name: Tom Davies, Age: 25, Height: 1,80 m, Team: Sheff Utd, Market Value: €5.00m, Position: Central Midfield, Nationality: England
+Name: Anis Slimane, Age: 23, Height: 1,88 m, Team: Sheff Utd, Market Value: €2.50m, Position: Central Midfield, Nationality: Tunisia
+Name: Andre Brooks, Age: 20, Height: 1,80 m, Team: Sheff Utd, Market Value: €2.50m, Position: Central Midfield, Nationality: England
+Name: Oliver Norwood, Age: 33, Height: 1,75 m, Team: Sheff Utd, Market Value: €1.00m, Position: Central Midfield, Nationality: Northern Ireland
+Name: Ben Osborn, Age: 29, Height: 1,76 m, Team: Sheff Utd, Market Value: €1.00m, Position: Central Midfield, Nationality: England
+Name: Oliver Arblaster, Age: 20, Height: 1,80 m, Team: Sheff Utd, Market Value: €450k, Position: Central Midfield, Nationality: England
+Name: Ben Brereton Díaz, Age: 25, Height: 1,85 m, Team: Sheff Utd, Market Value: €8.00m, Position: Left Winger, Nationality: Chile
+Name: Cameron Archer, Age: 22, Height: 1,75 m, Team: Sheff Utd, Market Value: €13.00m, Position: Centre-Forward, Nationality: England
+Name: Oli McBurnie, Age: 28, Height: 1,88 m, Team: Sheff Utd, Market Value: €4.50m, Position: Centre-Forward, Nationality: Scotland
+Name: Rhian Brewster, Age: 24, Height: 1,80 m, Team: Sheff Utd, Market Value: €3.00m, Position: Centre-Forward, Nationality: England
+Name: William Osula, Age: 20, Height: 1,86 m, Team: Sheff Utd, Market Value: €3.00m, Position: Centre-Forward, Nationality: Denmark
+Name: Daniel Jebbison, Age: 20, Height: 1,90 m, Team: Sheff Utd, Market Value: €1.00m, Position: Centre-Forward, Nationality: Canada
+Brighton
+Name: Bart Verbruggen, Age: 21, Height: 1,94 m, Team: Brighton, Market Value: €18.00m, Position: Goalkeeper, Nationality: Netherlands
+Name: Jason Steele, Age: 33, Height: 1,88 m, Team: Brighton, Market Value: €3.50m, Position: Goalkeeper, Nationality: England
+Name: Carl Rushworth, Age: 22, Height: 1,91 m, Team: Brighton, Market Value: €3.00m, Position: Goalkeeper, Nationality: England
+Name: Tom McGill, Age: 24, Height: 1,85 m, Team: Brighton, Market Value: €600k, Position: Goalkeeper, Nationality: Canada
+Name: Adam Webster, Age: 29, Height: 1,90 m, Team: Brighton, Market Value: €20.00m, Position: Centre-Back, Nationality: England
+Name: Jan Paul van Hecke, Age: 24, Height: 1,89 m, Team: Brighton, Market Value: €18.00m, Position: Centre-Back, Nationality: Netherlands
+Name: Igor, Age: 26, Height: 1,88 m, Team: Brighton, Market Value: €17.00m, Position: Centre-Back, Nationality: Brazil
+Name: Lewis Dunk, Age: 32, Height: 1,92 m, Team: Brighton, Market Value: €12.00m, Position: Centre-Back, Nationality: England
+Name: Ed Turns, Age: 21, Height: 1,86 m, Team: Brighton, Market Value: €400k, Position: Centre-Back, Nationality: Wales
+Name: Pervis Estupiñán, Age: 26, Height: 1,75 m, Team: Brighton, Market Value: €30.00m, Position: Left-Back, Nationality: Ecuador
+Name: Valentín Barco, Age: 19, Height: 1,70 m, Team: Brighton, Market Value: €13.00m, Position: Left-Back, Nationality: Argentina
+Name: Tariq Lamptey, Age: 23, Height: 1,63 m, Team: Brighton, Market Value: €12.00m, Position: Right-Back, Nationality: Ghana
+Name: Joël Veltman, Age: 32, Height: 1,84 m, Team: Brighton, Market Value: €10.00m, Position: Right-Back, Nationality: Netherlands
+Name: Carlos Baleba, Age: 20, Height: 1,79 m, Team: Brighton, Market Value: €22.00m, Position: Defensive Midfield, Nationality: Cameroon
+Name: Billy Gilmour, Age: 23, Height: 1,70 m, Team: Brighton, Market Value: €18.00m, Position: Defensive Midfield, Nationality: Scotland
+Name: Jack Hinshelwood, Age: 19, Height: 1,82 m, Team: Brighton, Market Value: €16.00m, Position: Defensive Midfield, Nationality: England
+Name: Jakub Moder, Age: 25, Height: 1,91 m, Team: Brighton, Market Value: €10.00m, Position: Central Midfield, Nationality: Poland
+Name: Pascal Groß, Age: 33, Height: 1,81 m, Team: Brighton, Market Value: €8.00m, Position: Central Midfield, Nationality: Germany
+Name: Yasin Ayari, Age: 20, Height: 1,72 m, Team: Brighton, Market Value: €4.50m, Position: Central Midfield, Nationality: Sweden
+Name: James Milner, Age: 38, Height: 1,75 m, Team: Brighton, Market Value: €1.00m, Position: Central Midfield, Nationality: England
+Name: Marc Leonard, Age: 22, Height: 1,80 m, Team: Brighton, Market Value: €450k, Position: Central Midfield, Nationality: Scotland
+Name: Jensen Weir, Age: 22, Height: 1,84 m, Team: Brighton, Market Value: €300k, Position: Central Midfield, Nationality: England
+Name: Julio Enciso, Age: 20, Height: 1,73 m, Team: Brighton, Market Value: €22.00m, Position: Attacking Midfield, Nationality: Paraguay
+Name: Facundo Buonanotte, Age: 19, Height: 1,74 m, Team: Brighton, Market Value: €18.00m, Position: Attacking Midfield, Nationality: Argentina
+Name: Andrew Moran, Age: 20, Height: 1,77 m, Team: Brighton, Market Value: €3.00m, Position: Attacking Midfield, Nationality: Ireland
+Name: Adam Lallana, Age: 36, Height: 1,72 m, Team: Brighton, Market Value: €1.00m, Position: Attacking Midfield, Nationality: England
+Name: Kaoru Mitoma, Age: 27, Height: 1,78 m, Team: Brighton, Market Value: €45.00m, Position: Left Winger, Nationality: Japan
+Name: Ansu Fati, Age: 21, Height: 1,78 m, Team: Brighton, Market Value: €25.00m, Position: Left Winger, Nationality: Spain
+Name: Jeremy Sarmiento, Age: 22, Height: 1,78 m, Team: Brighton, Market Value: €4.50m, Position: Left Winger, Nationality: Ecuador
+Name: Simon Adingra, Age: 22, Height: 1,75 m, Team: Brighton, Market Value: €30.00m, Position: Right Winger, Nationality: Cote d'Ivoire
+Name: Solly March, Age: 29, Height: 1,80 m, Team: Brighton, Market Value: €18.00m, Position: Right Winger, Nationality: England
+Name: Abdallah Sima, Age: 23, Height: 1,88 m, Team: Brighton, Market Value: €7.50m, Position: Right Winger, Nationality: Senegal
+Name: Evan Ferguson, Age: 19, Height: 1,88 m, Team: Brighton, Market Value: €50.00m, Position: Centre-Forward, Nationality: Ireland
+Name: João Pedro, Age: 22, Height: 1,88 m, Team: Brighton, Market Value: €45.00m, Position: Centre-Forward, Nationality: Brazil
+Name: Danny Welbeck, Age: 33, Height: 1,85 m, Team: Brighton, Market Value: €5.00m, Position: Centre-Forward, Nationality: England
+Fulham
+Name: Bernd Leno, Age: 32, Height: 1,90 m, Team: Fulham, Market Value: €13.00m, Position: Goalkeeper, Nationality: Germany
+Name: Marek Rodák, Age: 27, Height: 1,94 m, Team: Fulham, Market Value: €3.00m, Position: Goalkeeper, Nationality: Slovakia
+Name: Steven Benda, Age: 25, Height: 1,92 m, Team: Fulham, Market Value: €1.00m, Position: Goalkeeper, Nationality: Germany
+Name: Tosin Adarabioyo, Age: 26, Height: 1,96 m, Team: Fulham, Market Value: €20.00m, Position: Centre-Back, Nationality: England
+Name: Issa Diop, Age: 27, Height: 1,94 m, Team: Fulham, Market Value: €20.00m, Position: Centre-Back, Nationality: France
+Name: Calvin Bassey, Age: 24, Height: 1,85 m, Team: Fulham, Market Value: €16.00m, Position: Centre-Back, Nationality: Nigeria
+Name: Tim Ream, Age: 36, Height: 1,86 m, Team: Fulham, Market Value: €800k, Position: Centre-Back, Nationality: United States
+Name: Antonee Robinson, Age: 26, Height: 1,83 m, Team: Fulham, Market Value: €25.00m, Position: Left-Back, Nationality: United States
+Name: Fodé Ballo-Touré, Age: 27, Height: 1,82 m, Team: Fulham, Market Value: €3.00m, Position: Left-Back, Nationality: Senegal
+Name: Timothy Castagne, Age: 28, Height: 1,85 m, Team: Fulham, Market Value: €17.00m, Position: Right-Back, Nationality: Belgium
+Name: Kenny Tete, Age: 28, Height: 1,80 m, Team: Fulham, Market Value: €15.00m, Position: Right-Back, Nationality: Netherlands
+Name: João Palhinha, Age: 28, Height: 1,90 m, Team: Fulham, Market Value: €55.00m, Position: Defensive Midfield, Nationality: Portugal
+Name: Harrison Reed, Age: 29, Height: 1,81 m, Team: Fulham, Market Value: €15.00m, Position: Central Midfield, Nationality: England
+Name: Saša Lukić, Age: 27, Height: 1,82 m, Team: Fulham, Market Value: €10.00m, Position: Central Midfield, Nationality: Serbia
+Name: Tom Cairney, Age: 33, Height: 1,85 m, Team: Fulham, Market Value: €2.00m, Position: Central Midfield, Nationality: Scotland
+Name: Andreas Pereira, Age: 28, Height: 1,78 m, Team: Fulham, Market Value: €20.00m, Position: Attacking Midfield, Nationality: Brazil
+Name: Luke Harris, Age: 19, Height: 1,77 m, Team: Fulham, Market Value: €1.00m, Position: Attacking Midfield, Nationality: Wales
+Name: Alex Iwobi, Age: 28, Height: 1,83 m, Team: Fulham, Market Value: €25.00m, Position: Left Winger, Nationality: Nigeria
+Name: Willian, Age: 35, Height: 1,75 m, Team: Fulham, Market Value: €3.00m, Position: Left Winger, Nationality: Brazil
+Name: Harry Wilson, Age: 27, Height: 1,73 m, Team: Fulham, Market Value: €17.00m, Position: Right Winger, Nationality: Wales
+Name: Adama Traoré, Age: 28, Height: 1,78 m, Team: Fulham, Market Value: €9.00m, Position: Right Winger, Nationality: Spain
+Name: Bobby De Cordova-Reid, Age: 31, Height: 1,70 m, Team: Fulham, Market Value: €5.00m, Position: Right Winger, Nationality: Jamaica
+Name: Rodrigo Muniz, Age: 23, Height: 1,86 m, Team: Fulham, Market Value: €20.00m, Position: Centre-Forward, Nationality: Brazil
+Name: Raúl Jiménez, Age: 33, Height: 1,87 m, Team: Fulham, Market Value: €5.00m, Position: Centre-Forward, Nationality: Mexico
+Name: Jay Stansfield, Age: 21, Height: 1,87 m, Team: Fulham, Market Value: €3.50m, Position: Centre-Forward, Nationality: England
+Burnley
+Name: James Trafford, Age: 21, Height: 1,97 m, Team: Burnley, Market Value: €18.00m, Position: Goalkeeper, Nationality: England
+Name: Arijanet Muric, Age: 25, Height: 1,98 m, Team: Burnley, Market Value: €7.00m, Position: Goalkeeper, Nationality: Kosovo
+Name: Lawrence Vigouroux, Age: 30, Height: 1,94 m, Team: Burnley, Market Value: €300k, Position: Goalkeeper, Nationality: Chile
+Name: Jordan Beyer, Age: 24, Height: 1,87 m, Team: Burnley, Market Value: €13.00m, Position: Centre-Back, Nationality: Germany
+Name: Ameen Al-Dakhil, Age: 22, Height: 1,87 m, Team: Burnley, Market Value: €12.00m, Position: Centre-Back, Nationality: Belgium
+Name: Dara O'Shea, Age: 25, Height: 1,89 m, Team: Burnley, Market Value: €7.00m, Position: Centre-Back, Nationality: Ireland
+Name: Hjalmar Ekdal, Age: 25, Height: 1,87 m, Team: Burnley, Market Value: €7.00m, Position: Centre-Back, Nationality: Sweden
+Name: Maxime Estève, Age: 22, Height: 1,93 m, Team: Burnley, Market Value: €7.00m, Position: Centre-Back, Nationality: France
+Name: Hannes Delcroix, Age: 25, Height: 1,83 m, Team: Burnley, Market Value: €4.00m, Position: Centre-Back, Nationality: Belgium
+Name: Luke McNally, Age: 24, Height: 1,93 m, Team: Burnley, Market Value: €3.80m, Position: Centre-Back, Nationality: Ireland
+Name: Charlie Taylor, Age: 30, Height: 1,83 m, Team: Burnley, Market Value: €3.00m, Position: Left-Back, Nationality: England
+Name: Lorenz Assignon, Age: 24, Height: 1,81 m, Team: Burnley, Market Value: €10.00m, Position: Right-Back, Nationality: France
+Name: Connor Roberts, Age: 28, Height: 1,75 m, Team: Burnley, Market Value: €7.00m, Position: Right-Back, Nationality: Wales
+Name: Vitinho, Age: 24, Height: 1,74 m, Team: Burnley, Market Value: €5.00m, Position: Right-Back, Nationality: Brazil
+Name: Sander Berge, Age: 26, Height: 1,95 m, Team: Burnley, Market Value: €20.00m, Position: Defensive Midfield, Nationality: Norway
+Name: Han-Noah Massengo, Age: 22, Height: 1,78 m, Team: Burnley, Market Value: €4.00m, Position: Defensive Midfield, Nationality: France
+Name: Jack Cork, Age: 34, Height: 1,85 m, Team: Burnley, Market Value: €800k, Position: Defensive Midfield, Nationality: England
+Name: Josh Brownhill, Age: 28, Height: 1,79 m, Team: Burnley, Market Value: €15.00m, Position: Central Midfield, Nationality: England
+Name: Josh Cullen, Age: 28, Height: 1,75 m, Team: Burnley, Market Value: €10.00m, Position: Central Midfield, Nationality: Ireland
+Name: Aaron Ramsey, Age: 21, Height: 1,81 m, Team: Burnley, Market Value: €15.00m, Position: Attacking Midfield, Nationality: England
+Name: Scott Twine, Age: 24, Height: 1,74 m, Team: Burnley, Market Value: €3.00m, Position: Attacking Midfield, Nationality: England
+Name: Mike Trésor, Age: 25, Height: 1,72 m, Team: Burnley, Market Value: €12.00m, Position: Left Winger, Nationality: Belgium
+Name: Wilson Odobert, Age: 19, Height: 1,82 m, Team: Burnley, Market Value: €10.00m, Position: Left Winger, Nationality: France
+Name: Anass Zaroury, Age: 23, Height: 1,76 m, Team: Burnley, Market Value: €9.00m, Position: Left Winger, Nationality: Morocco
+Name: Jacob Bruun Larsen, Age: 25, Height: 1,83 m, Team: Burnley, Market Value: €8.00m, Position: Left Winger, Nationality: Denmark
+Name: Luca Koleosho, Age: 19, Height: 1,75 m, Team: Burnley, Market Value: €7.00m, Position: Left Winger, Nationality: Italy
+Name: Dara Costelloe, Age: 21, Height: 1,75 m, Team: Burnley, Market Value: €325k, Position: Left Winger, Nationality: Ireland
+Name: Benson Manuel, Age: 27, Height: 1,66 m, Team: Burnley, Market Value: €5.00m, Position: Right Winger, Nationality: Angola
+Name: Nathan Redmond, Age: 30, Height: 1,73 m, Team: Burnley, Market Value: €5.00m, Position: Right Winger, Nationality: England
+Name: Jóhann Berg Gudmundsson, Age: 33, Height: 1,86 m, Team: Burnley, Market Value: €1.00m, Position: Right Winger, Nationality: Iceland
+Name: Lyle Foster, Age: 23, Height: 1,85 m, Team: Burnley, Market Value: €13.00m, Position: Centre-Forward, Nationality: South Africa
+Name: Zeki Amdouni, Age: 23, Height: 1,85 m, Team: Burnley, Market Value: €12.00m, Position: Centre-Forward, Nationality: Switzerland
+Name: Michael Obafemi, Age: 23, Height: 1,70 m, Team: Burnley, Market Value: €2.20m, Position: Centre-Forward, Nationality: Ireland
+Name: Jay Rodríguez, Age: 34, Height: 1,85 m, Team: Burnley, Market Value: €1.00m, Position: Centre-Forward, Nationality: England
+Wolves
+Name: José Sá, Age: 31, Height: 1,92 m, Team: Wolves, Market Value: €14.00m, Position: Goalkeeper, Nationality: Portugal
+Name: Daniel Bentley, Age: 30, Height: 1,93 m, Team: Wolves, Market Value: €2.00m, Position: Goalkeeper, Nationality: England
+Name: Louie Moulden, Age: 22, Height: 1,90 m, Team: Wolves, Market Value: €200k, Position: Goalkeeper, Nationality: England
+Name: Tom King, Age: 29, Height: 1,94 m, Team: Wolves, Market Value: €200k, Position: Goalkeeper, Nationality: Wales
+Name: Max Kilman, Age: 27, Height: 1,94 m, Team: Wolves, Market Value: €32.00m, Position: Centre-Back, Nationality: England
+Name: Toti, Age: 25, Height: 1,87 m, Team: Wolves, Market Value: €20.00m, Position: Centre-Back, Nationality: Portugal
+Name: Santiago Bueno, Age: 25, Height: 1,90 m, Team: Wolves, Market Value: €8.00m, Position: Centre-Back, Nationality: Uruguay
+Name: Craig Dawson, Age: 34, Height: 1,88 m, Team: Wolves, Market Value: €2.00m, Position: Centre-Back, Nationality: England
+Name: Rayan Aït-Nouri, Age: 23, Height: 1,80 m, Team: Wolves, Market Value: €35.00m, Position: Left-Back, Nationality: Algeria
+Name: Hugo Bueno, Age: 21, Height: 1,80 m, Team: Wolves, Market Value: €6.00m, Position: Left-Back, Nationality: Spain
+Name: Nélson Semedo, Age: 30, Height: 1,77 m, Team: Wolves, Market Value: €12.00m, Position: Right-Back, Nationality: Portugal
+Name: Ki-Jana Hoever, Age: 22, Height: 1,83 m, Team: Wolves, Market Value: €4.50m, Position: Right-Back, Nationality: Netherlands
+Name: Matt Doherty, Age: 32, Height: 1,85 m, Team: Wolves, Market Value: €3.00m, Position: Right-Back, Nationality: Ireland
+Name: Mario Lemina, Age: 30, Height: 1,84 m, Team: Wolves, Market Value: €10.00m, Position: Defensive Midfield, Nationality: Gabon
+Name: Boubacar Traoré, Age: 22, Height: 1,83 m, Team: Wolves, Market Value: €6.00m, Position: Defensive Midfield, Nationality: Mali
+Name: Joe Hodge, Age: 21, Height: 1,72 m, Team: Wolves, Market Value: €1.50m, Position: Defensive Midfield, Nationality: Ireland
+Name: João Gomes, Age: 23, Height: 1,76 m, Team: Wolves, Market Value: €35.00m, Position: Central Midfield, Nationality: Brazil
+Name: Jean-Ricner Bellegarde, Age: 25, Height: 1,72 m, Team: Wolves, Market Value: €15.00m, Position: Central Midfield, Nationality: France
+Name: Luke Cundle, Age: 22, Height: 1,71 m, Team: Wolves, Market Value: €5.00m, Position: Central Midfield, Nationality: England
+Name: Chem Campbell, Age: 21, Height: 1,80 m, Team: Wolves, Market Value: €900k, Position: Attacking Midfield, Nationality: Wales
+Name: Noha Lemina, Age: 19, Height: 1,68 m, Team: Wolves, Market Value: €500k, Position: Attacking Midfield, Nationality: Gabon
+Name: Pedro Neto, Age: 24, Height: 1,72 m, Team: Wolves, Market Value: €55.00m, Position: Right Winger, Nationality: Portugal
+Name: Pablo Sarabia, Age: 32, Height: 1,74 m, Team: Wolves, Market Value: €10.00m, Position: Right Winger, Nationality: Spain
+Name: Matheus Cunha, Age: 25, Height: 1,83 m, Team: Wolves, Market Value: €45.00m, Position: Centre-Forward, Nationality: Brazil
+Name: Hee-chan Hwang, Age: 28, Height: 1,77 m, Team: Wolves, Market Value: €25.00m, Position: Centre-Forward, Nationality: Korea, South
+Name: Nathan Fraser, Age: 19, Height: 1,88 m, Team: Wolves, Market Value: €1.00m, Position: Centre-Forward, Nationality: Ireland
+Name: Leon Chiwome, Age: 18, Height: 1,86 m, Team: Wolves, Market Value: €1.00m, Position: Centre-Forward, Nationality: England
+Crystal Palace
+Name: Dean Henderson, Age: 27, Height: 1,88 m, Team: Crystal Palace, Market Value: €12.00m, Position: Goalkeeper, Nationality: England
+Name: Sam Johnstone, Age: 31, Height: 1,93 m, Team: Crystal Palace, Market Value: €10.00m, Position: Goalkeeper, Nationality: England
+Name: Joe Whitworth, Age: 20, Height: 1,79 m, Team: Crystal Palace, Market Value: €1.00m, Position: Goalkeeper, Nationality: England
+Name: Remi Matthews, Age: 30, Height: 1,92 m, Team: Crystal Palace, Market Value: €500k, Position: Goalkeeper, Nationality: England
+Name: Marc Guéhi, Age: 23, Height: 1,82 m, Team: Crystal Palace, Market Value: €38.00m, Position: Centre-Back, Nationality: England
+Name: Joachim Andersen, Age: 28, Height: 1,92 m, Team: Crystal Palace, Market Value: €35.00m, Position: Centre-Back, Nationality: Denmark
+Name: Chris Richards, Age: 24, Height: 1,88 m, Team: Crystal Palace, Market Value: €12.00m, Position: Centre-Back, Nationality: United States
+Name: Rob Holding, Age: 28, Height: 1,89 m, Team: Crystal Palace, Market Value: €5.00m, Position: Centre-Back, Nationality: England
+Name: Nathan Ferguson, Age: 23, Height: 1,84 m, Team: Crystal Palace, Market Value: €1.00m, Position: Centre-Back, Nationality: England
+Name: James Tomkins, Age: 35, Height: 1,92 m, Team: Crystal Palace, Market Value: €700k, Position: Centre-Back, Nationality: England
+Name: Tyrick Mitchell, Age: 24, Height: 1,75 m, Team: Crystal Palace, Market Value: €25.00m, Position: Left-Back, Nationality: England
+Name: Daniel Muñoz, Age: 28, Height: 1,81 m, Team: Crystal Palace, Market Value: €18.00m, Position: Right-Back, Nationality: Colombia
+Name: Nathaniel Clyne, Age: 33, Height: 1,75 m, Team: Crystal Palace, Market Value: €1.50m, Position: Right-Back, Nationality: England
+Name: Joel Ward, Age: 34, Height: 1,86 m, Team: Crystal Palace, Market Value: €1.00m, Position: Right-Back, Nationality: England
+Name: Cheick Doucouré, Age: 24, Height: 1,80 m, Team: Crystal Palace, Market Value: €35.00m, Position: Defensive Midfield, Nationality: Mali
+Name: Jefferson Lerma, Age: 29, Height: 1,79 m, Team: Crystal Palace, Market Value: €20.00m, Position: Defensive Midfield, Nationality: Colombia
+Name: Jairo Riedewald, Age: 27, Height: 1,82 m, Team: Crystal Palace, Market Value: €3.00m, Position: Defensive Midfield, Nationality: Netherlands
+Name: Adam Wharton, Age: 20, Height: 1,82 m, Team: Crystal Palace, Market Value: €30.00m, Position: Central Midfield, Nationality: England
+Name: Will Hughes, Age: 29, Height: 1,85 m, Team: Crystal Palace, Market Value: €9.00m, Position: Central Midfield, Nationality: England
+Name: Naouirou Ahamada, Age: 22, Height: 1,83 m, Team: Crystal Palace, Market Value: €8.00m, Position: Central Midfield, Nationality: France
+Name: Jeffrey Schlupp, Age: 31, Height: 1,78 m, Team: Crystal Palace, Market Value: €7.00m, Position: Left Midfield, Nationality: Ghana
+Name: Eberechi Eze, Age: 25, Height: 1,78 m, Team: Crystal Palace, Market Value: €55.00m, Position: Attacking Midfield, Nationality: England
+Name: Matheus França, Age: 20, Height: 1,84 m, Team: Crystal Palace, Market Value: €15.00m, Position: Attacking Midfield, Nationality: Brazil
+Name: Michael Olise, Age: 22, Height: 1,84 m, Team: Crystal Palace, Market Value: €55.00m, Position: Right Winger, Nationality: France
+Name: Jesurun Rak-Sakyi, Age: 21, Height: 1,78 m, Team: Crystal Palace, Market Value: €2.00m, Position: Right Winger, Nationality: England
+Name: Jean-Philippe Mateta, Age: 26, Height: 1,92 m, Team: Crystal Palace, Market Value: €20.00m, Position: Centre-Forward, Nationality: France
+Name: Odsonne Edouard, Age: 26, Height: 1,87 m, Team: Crystal Palace, Market Value: €18.00m, Position: Centre-Forward, Nationality: France
+Name: Jordan Ayew, Age: 32, Height: 1,82 m, Team: Crystal Palace, Market Value: €4.00m, Position: Centre-Forward, Nationality: Ghana
+Bournemouth
+Name: Mark Travers, Age: 25, Height: 1,91 m, Team: Bournemouth, Market Value: €3.50m, Position: Goalkeeper, Nationality: Ireland
+Name: Andrei Radu, Age: 27, Height: 1,88 m, Team: Bournemouth, Market Value: €3.00m, Position: Goalkeeper, Nationality: Romania
+Name: Neto, Age: 34, Height: 1,90 m, Team: Bournemouth, Market Value: €2.50m, Position: Goalkeeper, Nationality: Brazil
+Name: Will Dennis, Age: 23, Height: 1,88 m, Team: Bournemouth, Market Value: €350k, Position: Goalkeeper, Nationality: England
+Name: Darren Randolph, Age: 37, Height: 1,87 m, Team: Bournemouth, Market Value: €300k, Position: Goalkeeper, Nationality: Ireland
+Name: Ilya Zabarnyi, Age: 21, Height: 1,89 m, Team: Bournemouth, Market Value: €32.00m, Position: Centre-Back, Nationality: Ukraine
+Name: Marcos Senesi, Age: 27, Height: 1,85 m, Team: Bournemouth, Market Value: €22.00m, Position: Centre-Back, Nationality: Argentina
+Name: Lloyd Kelly, Age: 25, Height: 1,90 m, Team: Bournemouth, Market Value: €18.00m, Position: Centre-Back, Nationality: England
+Name: Chris Mepham, Age: 26, Height: 1,90 m, Team: Bournemouth, Market Value: €6.00m, Position: Centre-Back, Nationality: Wales
+Name: James Hill, Age: 22, Height: 1,84 m, Team: Bournemouth, Market Value: €2.00m, Position: Centre-Back, Nationality: England
+Name: Milos Kerkez, Age: 20, Height: 1,80 m, Team: Bournemouth, Market Value: €20.00m, Position: Left-Back, Nationality: Hungary
+Name: Max Aarons, Age: 24, Height: 1,71 m, Team: Bournemouth, Market Value: €16.00m, Position: Right-Back, Nationality: England
+Name: Ryan Fredericks, Age: 31, Height: 1,81 m, Team: Bournemouth, Market Value: €1.00m, Position: Right-Back, Nationality: England
+Name: Adam Smith, Age: 33, Height: 1,74 m, Team: Bournemouth, Market Value: €1.00m, Position: Right-Back, Nationality: England
+Name: Tyler Adams, Age: 25, Height: 1,75 m, Team: Bournemouth, Market Value: €15.00m, Position: Defensive Midfield, Nationality: United States
+Name: Philip Billing, Age: 28, Height: 1,93 m, Team: Bournemouth, Market Value: €22.00m, Position: Central Midfield, Nationality: Denmark
+Name: Alex Scott, Age: 20, Height: 1,78 m, Team: Bournemouth, Market Value: €20.00m, Position: Central Midfield, Nationality: England
+Name: Lewis Cook, Age: 27, Height: 1,75 m, Team: Bournemouth, Market Value: €12.00m, Position: Central Midfield, Nationality: England
+Name: Joe Rothwell, Age: 29, Height: 1,85 m, Team: Bournemouth, Market Value: €2.50m, Position: Central Midfield, Nationality: England
+Name: Gavin Kilkenny, Age: 24, Height: 1,75 m, Team: Bournemouth, Market Value: €300k, Position: Central Midfield, Nationality: Ireland
+Name: Romain Faivre, Age: 25, Height: 1,80 m, Team: Bournemouth, Market Value: €15.00m, Position: Right Midfield, Nationality: France
+Name: Marcus Tavernier, Age: 25, Height: 1,78 m, Team: Bournemouth, Market Value: €20.00m, Position: Left Midfield, Nationality: England
+Name: Ryan Christie, Age: 29, Height: 1,78 m, Team: Bournemouth, Market Value: €12.00m, Position: Attacking Midfield, Nationality: Scotland
+Name: Emiliano Marcondes, Age: 29, Height: 1,82 m, Team: Bournemouth, Market Value: €1.50m, Position: Attacking Midfield, Nationality: Denmark
+Name: Dango Ouattara, Age: 22, Height: 1,77 m, Team: Bournemouth, Market Value: €20.00m, Position: Left Winger, Nationality: Burkina Faso
+Name: Luis Sinisterra, Age: 25, Height: 1,72 m, Team: Bournemouth, Market Value: €17.00m, Position: Left Winger, Nationality: Colombia
+Name: Justin Kluivert, Age: 25, Height: 1,72 m, Team: Bournemouth, Market Value: €14.00m, Position: Left Winger, Nationality: Netherlands
+Name: Jaidon Anthony, Age: 24, Height: 1,83 m, Team: Bournemouth, Market Value: €6.00m, Position: Left Winger, Nationality: England
+Name: Antoine Semenyo, Age: 24, Height: 1,85 m, Team: Bournemouth, Market Value: €10.00m, Position: Right Winger, Nationality: Ghana
+Name: David Brooks, Age: 26, Height: 1,73 m, Team: Bournemouth, Market Value: €8.00m, Position: Right Winger, Nationality: Wales
+Name: Dominic Solanke, Age: 26, Height: 1,86 m, Team: Bournemouth, Market Value: €40.00m, Position: Centre-Forward, Nationality: England
+Name: Enes Ünal, Age: 27, Height: 1,87 m, Team: Bournemouth, Market Value: €18.00m, Position: Centre-Forward, Nationality: Türkiye
+Name: Kieffer Moore, Age: 31, Height: 1,96 m, Team: Bournemouth, Market Value: €2.00m, Position: Centre-Forward, Nationality: Wales
+Name: Jamal Lowe, Age: 29, Height: 1,83 m, Team: Bournemouth, Market Value: €1.50m, Position: Centre-Forward, Nationality: Jamaica
+Man City
+Name: Ederson, Age: 30, Height: 1,88 m, Team: Man City, Market Value: €35.00m, Position: Goalkeeper, Nationality: Brazil
+Name: Stefan Ortega, Age: 31, Height: 1,85 m, Team: Man City, Market Value: €9.00m, Position: Goalkeeper, Nationality: Germany
+Name: Scott Carson, Age: 38, Height: 1,88 m, Team: Man City, Market Value: €200k, Position: Goalkeeper, Nationality: England
+Name: Rúben Dias, Age: 27, Height: 1,87 m, Team: Man City, Market Value: €80.00m, Position: Centre-Back, Nationality: Portugal
+Name: Manuel Akanji, Age: 28, Height: 1,88 m, Team: Man City, Market Value: €45.00m, Position: Centre-Back, Nationality: Switzerland
+Name: Nathan Aké, Age: 29, Height: 1,80 m, Team: Man City, Market Value: €40.00m, Position: Centre-Back, Nationality: Netherlands
+Name: John Stones, Age: 30, Height: 1,88 m, Team: Man City, Market Value: €38.00m, Position: Centre-Back, Nationality: England
+Name: Taylor Harwood-Bellis, Age: 22, Height: 1,88 m, Team: Man City, Market Value: €22.00m, Position: Centre-Back, Nationality: England
+Name: Josko Gvardiol, Age: 22, Height: 1,85 m, Team: Man City, Market Value: €75.00m, Position: Left-Back, Nationality: Croatia
+Name: Sergio Gómez, Age: 23, Height: 1,71 m, Team: Man City, Market Value: €10.00m, Position: Left-Back, Nationality: Spain
+Name: Josh Wilson-Esbrand, Age: 21, Height: 1,76 m, Team: Man City, Market Value: €4.00m, Position: Left-Back, Nationality: England
+Name: Rico Lewis, Age: 19, Height: 1,69 m, Team: Man City, Market Value: €38.00m, Position: Right-Back, Nationality: England
+Name: Kyle Walker, Age: 34, Height: 1,78 m, Team: Man City, Market Value: €13.00m, Position: Right-Back, Nationality: England
+Name: Issa Kaboré, Age: 23, Height: 1,80 m, Team: Man City, Market Value: €10.00m, Position: Right-Back, Nationality: Burkina Faso
+Name: Rodri, Age: 28, Height: 1,91 m, Team: Man City, Market Value: €120.00m, Position: Defensive Midfield, Nationality: Spain
+Name: Matheus Nunes, Age: 25, Height: 1,83 m, Team: Man City, Market Value: €50.00m, Position: Central Midfield, Nationality: Portugal
+Name: Mateo Kovacic, Age: 30, Height: 1,77 m, Team: Man City, Market Value: €30.00m, Position: Central Midfield, Nationality: Croatia
+Name: James McAtee, Age: 21, Height: 1,80 m, Team: Man City, Market Value: €12.00m, Position: Central Midfield, Nationality: England
+Name: Bernardo Silva, Age: 29, Height: 1,73 m, Team: Man City, Market Value: €70.00m, Position: Attacking Midfield, Nationality: Portugal
+Name: Kevin De Bruyne, Age: 32, Height: 1,81 m, Team: Man City, Market Value: €50.00m, Position: Attacking Midfield, Nationality: Belgium
+Name: Jérémy Doku, Age: 22, Height: 1,73 m, Team: Man City, Market Value: €65.00m, Position: Left Winger, Nationality: Belgium
+Name: Jack Grealish, Age: 28, Height: 1,80 m, Team: Man City, Market Value: €60.00m, Position: Left Winger, Nationality: England
+Name: Phil Foden, Age: 24, Height: 1,71 m, Team: Man City, Market Value: €150.00m, Position: Right Winger, Nationality: England
+Name: Oscar Bobb, Age: 20, Height: 1,75 m, Team: Man City, Market Value: €25.00m, Position: Right Winger, Nationality: Norway
+Name: Erling Haaland, Age: 23, Height: 1,95 m, Team: Man City, Market Value: €180.00m, Position: Centre-Forward, Nationality: Norway
+Name: Julián Álvarez, Age: 24, Height: 1,70 m, Team: Man City, Market Value: €90.00m, Position: Centre-Forward, Nationality: Argentina
+Liverpool
+Name: Alisson, Age: 31, Height: 1,93 m, Team: Liverpool, Market Value: €28.00m, Position: Goalkeeper, Nationality: Brazil
+Name: Caoimhín Kelleher, Age: 25, Height: 1,88 m, Team: Liverpool, Market Value: €20.00m, Position: Goalkeeper, Nationality: Ireland
+Name: Adrián, Age: 37, Height: 1,90 m, Team: Liverpool, Market Value: €600k, Position: Goalkeeper, Nationality: Spain
+Name: Ibrahima Konaté, Age: 25, Height: 1,94 m, Team: Liverpool, Market Value: €45.00m, Position: Centre-Back, Nationality: France
+Name: Virgil van Dijk, Age: 32, Height: 1,95 m, Team: Liverpool, Market Value: €30.00m, Position: Centre-Back, Nationality: Netherlands
+Name: Joe Gomez, Age: 27, Height: 1,88 m, Team: Liverpool, Market Value: €28.00m, Position: Centre-Back, Nationality: England
+Name: Jarell Quansah, Age: 21, Height: 1,90 m, Team: Liverpool, Market Value: €22.00m, Position: Centre-Back, Nationality: England
+Name: Joel Matip, Age: 32, Height: 1,95 m, Team: Liverpool, Market Value: €8.00m, Position: Centre-Back, Nationality: Cameroon
+Name: Nathaniel Phillips, Age: 27, Height: 1,90 m, Team: Liverpool, Market Value: €3.50m, Position: Centre-Back, Nationality: England
+Name: Rhys Williams, Age: 23, Height: 1,95 m, Team: Liverpool, Market Value: €1.80m, Position: Centre-Back, Nationality: England
+Name: Andrew Robertson, Age: 30, Height: 1,78 m, Team: Liverpool, Market Value: €30.00m, Position: Left-Back, Nationality: Scotland
+Name: Konstantinos Tsimikas, Age: 28, Height: 1,79 m, Team: Liverpool, Market Value: €22.00m, Position: Left-Back, Nationality: Greece
+Name: Trent Alexander-Arnold, Age: 25, Height: 1,80 m, Team: Liverpool, Market Value: €70.00m, Position: Right-Back, Nationality: England
+Name: Conor Bradley, Age: 20, Height: 1,81 m, Team: Liverpool, Market Value: €15.00m, Position: Right-Back, Nationality: Northern Ireland
+Name: Calvin Ramsay, Age: 20, Height: 1,77 m, Team: Liverpool, Market Value: €4.00m, Position: Right-Back, Nationality: Scotland
+Name: Wataru Endo, Age: 31, Height: 1,78 m, Team: Liverpool, Market Value: €13.00m, Position: Defensive Midfield, Nationality: Japan
+Name: Stefan Bajcetic, Age: 19, Height: 1,85 m, Team: Liverpool, Market Value: €11.00m, Position: Defensive Midfield, Nationality: Spain
+Name: Dominik Szoboszlai, Age: 23, Height: 1,87 m, Team: Liverpool, Market Value: €75.00m, Position: Central Midfield, Nationality: Hungary
+Name: Alexis Mac Allister, Age: 25, Height: 1,76 m, Team: Liverpool, Market Value: €75.00m, Position: Central Midfield, Nationality: Argentina
+Name: Curtis Jones, Age: 23, Height: 1,85 m, Team: Liverpool, Market Value: €35.00m, Position: Central Midfield, Nationality: England
+Name: Harvey Elliott, Age: 21, Height: 1,70 m, Team: Liverpool, Market Value: €35.00m, Position: Central Midfield, Nationality: England
+Name: Ryan Gravenberch, Age: 22, Height: 1,90 m, Team: Liverpool, Market Value: €35.00m, Position: Central Midfield, Nationality: Netherlands
+Name: Thiago, Age: 33, Height: 1,74 m, Team: Liverpool, Market Value: €10.00m, Position: Central Midfield, Nationality: Spain
+Name: Bobby Clark, Age: 19, Height: 1,78 m, Team: Liverpool, Market Value: €1.00m, Position: Central Midfield, Nationality: England
+Name: Fábio Carvalho, Age: 21, Height: 1,70 m, Team: Liverpool, Market Value: €14.00m, Position: Attacking Midfield, Nationality: Portugal
+Name: Luis Díaz, Age: 27, Height: 1,80 m, Team: Liverpool, Market Value: €75.00m, Position: Left Winger, Nationality: Colombia
+Name: Cody Gakpo, Age: 25, Height: 1,93 m, Team: Liverpool, Market Value: €50.00m, Position: Left Winger, Nationality: Netherlands
+Name: Diogo Jota, Age: 27, Height: 1,78 m, Team: Liverpool, Market Value: €50.00m, Position: Left Winger, Nationality: Portugal
+Name: Mohamed Salah, Age: 32, Height: 1,75 m, Team: Liverpool, Market Value: €55.00m, Position: Right Winger, Nationality: Egypt
+Name: Ben Doak, Age: 18, Height: 1,73 m, Team: Liverpool, Market Value: €10.00m, Position: Right Winger, Nationality: Scotland
+Name: Darwin Núñez, Age: 24, Height: 1,87 m, Team: Liverpool, Market Value: €70.00m, Position: Centre-Forward, Nationality: Uruguay
+Chelsea
+Name: Robert Sánchez, Age: 26, Height: 1,97 m, Team: Chelsea, Market Value: €20.00m, Position: Goalkeeper, Nationality: Spain
+Name: Djordje Petrovic, Age: 24, Height: 1,94 m, Team: Chelsea, Market Value: €20.00m, Position: Goalkeeper, Nationality: Serbia
+Name: Marcus Bettinelli, Age: 32, Height: 1,93 m, Team: Chelsea, Market Value: €1.00m, Position: Goalkeeper, Nationality: England
+Name: Lucas Bergström, Age: 21, Height: 2,05 m, Team: Chelsea, Market Value: €700k, Position: Goalkeeper, Nationality: Finland
+Name: Levi Colwill, Age: 21, Height: 1,87 m, Team: Chelsea, Market Value: €50.00m, Position: Centre-Back, Nationality: England
+Name: Axel Disasi, Age: 26, Height: 1,90 m, Team: Chelsea, Market Value: €40.00m, Position: Centre-Back, Nationality: France
+Name: Benoît Badiashile, Age: 23, Height: 1,94 m, Team: Chelsea, Market Value: €30.00m, Position: Centre-Back, Nationality: France
+Name: Wesley Fofana, Age: 23, Height: 1,86 m, Team: Chelsea, Market Value: €25.00m, Position: Centre-Back, Nationality: France
+Name: Trevoh Chalobah, Age: 24, Height: 1,92 m, Team: Chelsea, Market Value: €13.00m, Position: Centre-Back, Nationality: England
+Name: Alfie Gilchrist, Age: 20, Height: 1,83 m, Team: Chelsea, Market Value: €5.00m, Position: Centre-Back, Nationality: England
+Name: Malang Sarr, Age: 25, Height: 1,83 m, Team: Chelsea, Market Value: €4.00m, Position: Centre-Back, Nationality: France
+Name: Thiago Silva, Age: 39, Height: 1,81 m, Team: Chelsea, Market Value: €1.00m, Position: Centre-Back, Nationality: Brazil
+Name: Ben Chilwell, Age: 27, Height: 1,80 m, Team: Chelsea, Market Value: €28.00m, Position: Left-Back, Nationality: England
+Name: Marc Cucurella, Age: 25, Height: 1,73 m, Team: Chelsea, Market Value: €25.00m, Position: Left-Back, Nationality: Spain
+Name: Reece James, Age: 24, Height: 1,80 m, Team: Chelsea, Market Value: €40.00m, Position: Right-Back, Nationality: England
+Name: Malo Gusto, Age: 21, Height: 1,78 m, Team: Chelsea, Market Value: €35.00m, Position: Right-Back, Nationality: France
+Name: Moisés Caicedo, Age: 22, Height: 1,78 m, Team: Chelsea, Market Value: €75.00m, Position: Defensive Midfield, Nationality: Ecuador
+Name: Roméo Lavia, Age: 20, Height: 1,81 m, Team: Chelsea, Market Value: €35.00m, Position: Defensive Midfield, Nationality: Belgium
+Name: Lesley Ugochukwu, Age: 20, Height: 1,90 m, Team: Chelsea, Market Value: €25.00m, Position: Defensive Midfield, Nationality: France
+Name: Enzo Fernández, Age: 23, Height: 1,78 m, Team: Chelsea, Market Value: €75.00m, Position: Central Midfield, Nationality: Argentina
+Name: Conor Gallagher, Age: 24, Height: 1,82 m, Team: Chelsea, Market Value: €50.00m, Position: Central Midfield, Nationality: England
+Name: Carney Chukwuemeka, Age: 20, Height: 1,87 m, Team: Chelsea, Market Value: €15.00m, Position: Central Midfield, Nationality: England
+Name: Cesare Casadei, Age: 21, Height: 1,85 m, Team: Chelsea, Market Value: €10.00m, Position: Central Midfield, Nationality: Italy
+Name: Cole Palmer, Age: 22, Height: 1,89 m, Team: Chelsea, Market Value: €80.00m, Position: Attacking Midfield, Nationality: England
+Name: Christopher Nkunku, Age: 26, Height: 1,77 m, Team: Chelsea, Market Value: €65.00m, Position: Attacking Midfield, Nationality: France
+Name: Raheem Sterling, Age: 29, Height: 1,70 m, Team: Chelsea, Market Value: €35.00m, Position: Left Winger, Nationality: England
+Name: Mykhaylo Mudryk, Age: 23, Height: 1,75 m, Team: Chelsea, Market Value: €35.00m, Position: Left Winger, Nationality: Ukraine
+Name: Diego Moreira, Age: 19, Height: 1,79 m, Team: Chelsea, Market Value: €3.00m, Position: Left Winger, Nationality: Portugal
+Name: Noni Madueke, Age: 22, Height: 1,82 m, Team: Chelsea, Market Value: €28.00m, Position: Right Winger, Nationality: England
+Name: Nicolas Jackson, Age: 23, Height: 1,88 m, Team: Chelsea, Market Value: €35.00m, Position: Centre-Forward, Nationality: Senegal
+Name: Armando Broja, Age: 22, Height: 1,91 m, Team: Chelsea, Market Value: €22.00m, Position: Centre-Forward, Nationality: Albania
+Name: David Datro Fofana, Age: 21, Height: 1,80 m, Team: Chelsea, Market Value: €12.00m, Position: Centre-Forward, Nationality: Cote d'Ivoire
+Name: Deivid Washington, Age: 19, Height: 1,87 m, Team: Chelsea, Market Value: €9.00m, Position: Centre-Forward, Nationality: Brazil
+Luton
+Name: Thomas Kaminski, Age: 31, Height: 1,90 m, Team: Luton, Market Value: €3.00m, Position: Goalkeeper, Nationality: Belgium
+Name: Tim Krul, Age: 36, Height: 1,93 m, Team: Luton, Market Value: €500k, Position: Goalkeeper, Nationality: Netherlands
+Name: Jack Walton, Age: 26, Height: 1,84 m, Team: Luton, Market Value: €400k, Position: Goalkeeper, Nationality: England
+Name: James Shea, Age: 33, Height: 1,85 m, Team: Luton, Market Value: €200k, Position: Goalkeeper, Nationality: England
+Name: Teden Mengi, Age: 22, Height: 1,86 m, Team: Luton, Market Value: €12.00m, Position: Centre-Back, Nationality: England
+Name: Tom Holmes, Age: 24, Height: 1,89 m, Team: Luton, Market Value: €3.50m, Position: Centre-Back, Nationality: England
+Name: Gabriel Osho, Age: 25, Height: 1,85 m, Team: Luton, Market Value: €3.00m, Position: Centre-Back, Nationality: Nigeria
+Name: Mads Andersen, Age: 26, Height: 1,94 m, Team: Luton, Market Value: €3.00m, Position: Centre-Back, Nationality: Denmark
+Name: Tom Lockyer, Age: 29, Height: 1,85 m, Team: Luton, Market Value: €2.50m, Position: Centre-Back, Nationality: Wales
+Name: Reece Burke, Age: 27, Height: 1,89 m, Team: Luton, Market Value: €1.80m, Position: Centre-Back, Nationality: England
+Name: Ryan Giles, Age: 24, Height: 1,79 m, Team: Luton, Market Value: €4.50m, Position: Left-Back, Nationality: England
+Name: Amari'i Bell, Age: 30, Height: 1,80 m, Team: Luton, Market Value: €2.50m, Position: Left-Back, Nationality: Jamaica
+Name: Dan Potts, Age: 30, Height: 1,73 m, Team: Luton, Market Value: €900k, Position: Left-Back, Nationality: England
+Name: Daiki Hashioka, Age: 25, Height: 1,84 m, Team: Luton, Market Value: €2.00m, Position: Right-Back, Nationality: Japan
+Name: Marvelous Nakamba, Age: 30, Height: 1,77 m, Team: Luton, Market Value: €5.00m, Position: Defensive Midfield, Nationality: Zimbabwe
+Name: Pelly Ruddock Mpanzu, Age: 30, Height: 1,75 m, Team: Luton, Market Value: €1.50m, Position: Defensive Midfield, Nationality: DR Congo
+Name: Ross Barkley, Age: 30, Height: 1,89 m, Team: Luton, Market Value: €8.00m, Position: Central Midfield, Nationality: England
+Name: Allan Campbell, Age: 25, Height: 1,74 m, Team: Luton, Market Value: €2.00m, Position: Central Midfield, Nationality: Scotland
+Name: Jordan Clark, Age: 30, Height: 1,83 m, Team: Luton, Market Value: €1.00m, Position: Central Midfield, Nationality: England
+Name: Luke Berry, Age: 31, Height: 1,77 m, Team: Luton, Market Value: €400k, Position: Central Midfield, Nationality: England
+Name: Louie Watson, Age: 23, Height: 1,80 m, Team: Luton, Market Value: €250k, Position: Central Midfield, Nationality: Ireland
+Name: Elliot Thorpe, Age: 23, Height: 1,76 m, Team: Luton, Market Value: €200k, Position: Central Midfield, Nationality: Wales
+Name: Alfie Doughty, Age: 24, Height: 1,83 m, Team: Luton, Market Value: €10.00m, Position: Left Midfield, Nationality: England
+Name: Fred Onyedinma, Age: 27, Height: 1,85 m, Team: Luton, Market Value: €500k, Position: Attacking Midfield, Nationality: Nigeria
+Name: Dion Pereira, Age: 25, Height: 1,80 m, Team: Luton, Market Value: €175k, Position: Left Winger, Nationality: Antigua and Barbuda
+Name: Chiedozie Ogbene, Age: 27, Height: 1,81 m, Team: Luton, Market Value: €8.00m, Position: Right Winger, Nationality: Ireland
+Name: Tahith Chong, Age: 24, Height: 1,85 m, Team: Luton, Market Value: €6.00m, Position: Right Winger, Nationality: Netherlands
+Name: Andros Townsend, Age: 32, Height: 1,81 m, Team: Luton, Market Value: €1.80m, Position: Right Winger, Nationality: England
+Name: John McAtee, Age: 24, Height: 1,80 m, Team: Luton, Market Value: €300k, Position: Second Striker, Nationality: England
+Name: Carlton Morris, Age: 28, Height: 1,85 m, Team: Luton, Market Value: €13.00m, Position: Centre-Forward, Nationality: England
+Name: Elijah Adebayo, Age: 26, Height: 1,93 m, Team: Luton, Market Value: €12.00m, Position: Centre-Forward, Nationality: England
+Name: Jacob Brown, Age: 26, Height: 1,78 m, Team: Luton, Market Value: €4.00m, Position: Centre-Forward, Nationality: Scotland
+Name: Cauley Woodrow, Age: 29, Height: 1,84 m, Team: Luton, Market Value: €1.00m, Position: Centre-Forward, Nationality: England
+Name: Joe Taylor, Age: 21, Height: None, Team: Luton, Market Value: €350k, Position: Centre-Forward, Nationality: Wales
+Name: Admiral Muskwe, Age: 25, Height: 1,83 m, Team: Luton, Market Value: €275k, Position: Centre-Forward, Nationality: Zimbabwe
