@@ -161,7 +161,7 @@ class DataScraper:
         teamTag = soup.find('span', class_='data-header__club', itemprop='affiliation')
         if teamTag:
             team = teamTag.find('a').get_text(strip=True)
-            team = team.replace(" U21" ,"")
+            team = team.replace(" U21" ,"") 
             return team
 
     def fetchPlayerMarketValue(self, soup):
